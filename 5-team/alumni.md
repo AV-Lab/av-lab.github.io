@@ -50,8 +50,19 @@ Eyad Shaklab recieved his B.S. degree in computer science from the American Univ
 > Postdoc: funded under KUCARS Theme 1 (Jan 2020 – Dec 2020)
 
 ## Visitors
+
+**Syed Abbas Hussain** 
+>Visiting Researcher (31/7/2024 - 30/11/2024)
+
+![](/assets/img/syed-abbas-pic.png)
+I’m a passionate software developer with a strong background in creating mobile apps. I recently graduated with top honors in Computer System Engineering from Middlesex University Dubai, earning the prestigious Golden Visa for academic excellence.  
+  
+I recently transitioned from my role as a Software Development Coordinator at Bydaar to my current position as a Visiting Researcher in the Computer Science field at Khalifa University. At Bydaar, I was instrumental in developing a React Native mobile app, managing e-commerce operations on Shopify, and ensuring seamless integration of software applications with autonomous vehicle systems.  
+  
+At Khalifa University, I am focused on developing and enhancing software applications for autonomous vehicles, creating intuitive user interfaces, and ensuring seamless integration with vehicle systems. I am dedicated to continuously improving my skills and staying updated with the latest trends and technologies.  
+
 **Nadim Khneisser**
->Visiting Researcher; funded under RIG-2023-117 Project (5/62024 - 27/8/2024)
+>Visiting Researcher; funded under RIG-2023-117 Project (5/6/2024 - 27/8/2024)
 
 ![nadim-khneisser](/assets/img/nadim-khneisser.png)
 Second-year student pursuing a B.Sc. in Robotics and Intelligent Systems at Constructor University Bremen (formerly Jacobs University) looking to obtain experience in the field. Held in high regard by the professors for being a disciplined and hardworking team player that strives in high pressure environments. Passionate about AI and robotics, with a keen interest in their potential uses in everyday life.

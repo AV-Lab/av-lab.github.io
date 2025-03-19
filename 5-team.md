@@ -54,10 +54,8 @@ Email: Murad.Mebrahtu(at)ku.ac.ae
 ![Yousef_picture](assets/img/Yousef_picture.jpg)
 Yousef received his Bachelor of Science in Electrical Engineering - Mechatronics with merit Summa Cum Laude at the Canadian University of Dubai. As an Electrical & Robotics Engineer and Instructor at STEMA, he instructed students in engineering, programming, and robotics. Notably, he created a curriculum for a Unity 2D game design training program and supervised 30 interns. Yousef's research interests lie in autonomous and electric vehicles, and he contributed to a solar-powered electric autonomous vehicle during his graduation project. As a visiting researcher at the AV Lab, he plays a role in integrating components into the gen0 vehicle, and managing lab equipment & operations.
 
-# Visitors
-
 **Syed Abbas Hussain**
->Visiting Researcher
+>Research Assistant
 
 ![](assets/img/syed-abbas-pic.png)
 I’m a passionate software developer with a strong background in creating mobile apps. I recently graduated with top honors in Computer System Engineering from Middlesex University Dubai, earning the prestigious Golden Visa for academic excellence.  
@@ -66,6 +64,14 @@ I recently transitioned from my role as a Software Development Coordinator at By
   
 At Khalifa University, I am focused on developing and enhancing software applications for autonomous vehicles, creating intuitive user interfaces, and ensuring seamless integration with vehicle systems. I am dedicated to continuously improving my skills and staying updated with the latest trends and technologies.  
   
+
+# Visitors
+**Zakhar Yagudin**
+> Visiting Researcher
+
+![zakhar](assets/img/zakhar.jpeg)
+Zakhar Yagudin is a master's student in the Engineering Systems program at the Skolkovo Institute of Science and Technology (Skoltech), specializing in autonomous vehicle technologies and computer vision. He is affiliated with the Intelligent Space Robotics Laboratory within Skoltech's Center for Digital Engineering, where he collaborates on advancing autonomous driving systems.
+
 ---
 # Graduate Students
 
@@ -101,11 +107,19 @@ Abdelmoamen Nasser received his BSc. in Electrical Engineering from Abu Dhabi Un
 
 **Many thanks to [AV Lab Alumni](5-team/alumni)** for their great contributions.
 
+If you are interested in working with us, please submit your application through our online [form](1FAIpQLSeMoTvLyh_yrqTJCfM6vkH0RTbbu2YDuFw5VTYXGfFaDKLmig).
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeMoTvLyh_yrqTJCfM6vkH0RTbbu2YDuFw5VTYXGfFaDKLmig/viewform"> <img width=100 class="icon" src="/assets/img/apply-icon.jpg"/> </a>
 
 <style>
+.icon{
+    margin: 5px;
+    width: 50px;
+    float: left;
+}
 img{
     float:left;
-    margin: 5px;
+    margin-top: 6px;
+    margin-right: 10px;
     width: 100px;
 }
 img:hover{

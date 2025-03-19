@@ -18,6 +18,7 @@ This line of research primarily targets the optimization of planning systems in 
 
 
 ### Publications
+- Abdulrahman Hamdy, Majid Khonji, Khaled Elbassioni, Jorge Dias, Ameena Al Sumaiti (2025). “**Online Risk-Bounded Graph-Based Local Planning for Autonomous Driving with Theoretical Guarantees**.” IEEE International Conference on Robotics and Automation (**ICRA**). Atlanta, US.
 - Majid Khonji (2023). "**Approximability and Efficient Algorithms for Constrained Fixed-Horizon POMDPs with Durative Actions**." The Journal of Artificial Intelligence (**AIJ**).
 - Majid Khonji (2023). “**A Fully Polynomial Time Approximation Scheme for Constrained MDPs under Local Transitions**.” IEEE Conference on Decision and Control (**CDC**), Singapore.
 - Majid Khonji, Duoaa Khalifa (2023). “**Heuristic Search in Dual Space for Constrained Fixed-Horizon POMDPs with Durative Actions**.” AAAI Conference on Artificial Intelligence (**AAAI**), Washington, DC, US. 
@@ -53,11 +54,6 @@ This line of research focuses on the integration of autonomous vehicle systems i
 - Rashid Alyassi, Majid Khonji, Areg Karapetyan, Sid Chau, Khaled Elbassioni, Chien-Ming Tseng (2022). “**Autonomous Recharging and Flight Mission Planning for Battery-operated Autonomous Drones**.” IEEE Transactions on Automation Science and Engineering (**T-ASE**). [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9779119)
 - Areg Karapetyan, Khaled Elbassioni, Majid Khonji, Sid Chi-Kin Chau (2022).“**Approximations for Generalized Unsplittable Flow on Paths with Application to Power Systems Optimization**.” Annals of Operations Research (**AOR**). [paper](https://arxiv.org/pdf/1709.05876.pdf)
 - Areg Karapetyan, Majid Khonji, Sid Chau, Khaled Elbassioni, Hatem Zeineldin, Tareq El-Fouly, Ahmed Al-Durra (2020). “**A Competitive Scheduling Algorithm for Online Demand Response in Islanded Microgrids**.” IEEE Transactions on Power Systems (**TPS**).
-
-# Pipeline
-- Multi-Agent Chance-Constrained Stochastic Shortest Path with Application to Risk-Aware Intelligent Intersection.
-- Towards Optimal Last-mile Logistics with Fully-autonomous Contactless Multi-parcel Delivery Robots.
-- Online Load Scheduling in Grid-Tied Microgrids Integrated with Electric Vehicle Charging Station: Model Formulation and a Competitive Algorithm.
 
 
 

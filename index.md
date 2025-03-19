@@ -39,7 +39,7 @@ layout: home
     <li>Enabling multi-agent vehicles to safely and efficiently share perception and decision-making data, including epistemic and aleatoric uncertainties, through V2X industry standards.</li>
     <li>Designing decision-making frameworks that deliver strong safety assurances, grounded in rigorous theoretical validation.</li>
   </ul>
-	<a href="https://mindshield.ai"><img width="220" style="float: right; margin-top:-35px; margin-right:-18px" src="assets/img/mindshield-logo.gif"/></a>
+<!--.	 <a href="https://mindshield.ai"><img width="220" style="float: right; margin-top:-35px; margin-right:-18px" src="assets/img/mindshield-logo.gif"/></a> -->
   </div>
   
 </div>
@@ -158,7 +158,7 @@ layout: home
   /*color:#566968 ;*/
   color:#f9fbff;
   padding-top: 20px;
-  padding-bottom:1px;
+  padding-bottom:35px;
   padding-right:10px;
   padding-left:10px;
   padding-right: 25px;
