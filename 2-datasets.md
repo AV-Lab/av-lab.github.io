@@ -9,7 +9,7 @@ Emirates Multi-Task (EMT) is a comprehensive dataset for autonomous driving rese
 - Weather Variations: Clear and rainy conditions
 - Visual Challenges: High reflections from road surfaces and adverse weather combinations (rainy nights)
 
-More details can be found in the [download page](https://avlab.io/emt-dataset/) and [paper](https://arxiv.org/abs/2502.19260).
+More details can be found in the [download page](https://avlab.io/emt-dataset/emt_dataset) and [paper](https://arxiv.org/abs/2502.19260).
 <!-- # [Road-UAE Dataset](https://avlab.io/road-uae/)
 ROAD-UAE is a richly annotated dataset containing detailed semantic annotations for road agents and events. With 57 minutes of continuous footage, each video segment lasts between 2.5 to 3 minutes. The dataset includes heterogenous annotations for three main agent categories: people (pedestrians and cyclists), vehicles (divided into six classes), and traffic lights. It captures the unique road topology and traffic conditions of the Gulf Region, offering consistent tracking IDs for all road agents. Additionally, it provides action annotations as "action tubes" and road event detections labeled as triplets (Agent, Action, Location) at the frame level. -->
 
