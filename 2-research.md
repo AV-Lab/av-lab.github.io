@@ -14,7 +14,7 @@ show_menu: true
 ## AV Planning and Reasoning
 This line of research primarily targets the optimization of planning systems in autonomous vehicles. The focus is on elevating safety measures, streamlining operational efficiency, and aligning system functions with user preferences.
 
-<img src="/1-research/planning-img/banner.gif" >
+<img src="/2-research/planning-img/banner.gif" >
 
 
 ### Publications
@@ -32,8 +32,8 @@ This line of research primarily targets the optimization of planning systems in 
 ## AV Perception and Situation Awareness
 This line of research is dedicated to refining perception and situational awareness capabilities within the field of autonomous vehicles. Upcoming efforts will place emphasis on formulating robust perception systems able to capture and report model uncertainties. Current projects span from detecting and tracking multiple objects, predicting vehicle wheel slip in off-road conditions, to semantic segmentation of underexposed images.
 
-<img src="/1-research/3d-multi-object-tracking-img/tracking-gif.gif" height="200">
-<img src="/1-research/Offroad_AGV-Slip-Prediction-img/GIF_MUSTOFA_OP.gif" height="200">
+<img src="/2-research/3d-multi-object-tracking-img/tracking-gif.gif" height="200">
+<img src="/2-research/Offroad_AGV-Slip-Prediction-img/GIF_MUSTOFA_OP.gif" height="200">
 
 ### Publications
 - Fatima Kashwani, Bilal Hassan, Peng-Yong Kong, Majid Khonji, Jorge Dias (2024). “Evaluation of Predictive Display for Teleoperated Driving using CARLA Simulator.” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). Abu Dhabi. UAE.
@@ -48,7 +48,7 @@ This line of research is dedicated to refining perception and situational awaren
 ## AV System Integration and Electric Mobility
 This line of research focuses on the integration of autonomous vehicle systems into smart cities. It entails the development of strategies for mission planning, and efficient electric vehicle charging. The aim is to enhance the efficiency and sustainability of autonomous technologies within urban environments.
 
-<img src="/1-research/integration-img/delivery-robot.gif" height="200">
+<img src="/2-research/integration-img/delivery-robot.gif" height="200">
 ### Publications
 - Bushra Alshehhi, Areg Karapetyan, Khaled Elbassioni, Sid Chi-Kin Chau,  Majid Khonji (2023). “**DClEVerNet: Deep Combinatorial Learning for Efficient EV Charging Scheduling in Large-scale Networked Facilities**.” ACM International Conference on Future Energy Systems (**e-Energy**), Florida, US
 - Rashid Alyassi, Majid Khonji, Areg Karapetyan, Sid Chau, Khaled Elbassioni, Chien-Ming Tseng (2022). “**Autonomous Recharging and Flight Mission Planning for Battery-operated Autonomous Drones**.” IEEE Transactions on Automation Science and Engineering (**T-ASE**). [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9779119)
