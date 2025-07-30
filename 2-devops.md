@@ -41,12 +41,6 @@ Our development focuses on three core projects: AVLite, a high-level autonomy st
 # Last Mile Passenger Mobility & Data Collection
 The AV Lab has a fleet of autonomous vehicles, consisting of two passenger vehicles for last-mile transportation and a retrofitted Nissan Leaf. These vehicles are equipped with LiDAR sensors and multiple cameras, allowing for advanced sensing and perception capabilities. We are excited to collaborate with researchers in this field and welcome any inquiries about research partnerships. Please feel free to reach out to us to explore opportunities for collaboration.
 
-* Driverless and electric shuttle
-* Can carry up to 12 people
-* Two Platforms:
-    * Platform 1 based on EasyMile Gen 2: dedicated for passenger transportation and continious data collection
-    * Platform 2 based on EasyMile Gen 1: Testing KU autnomous driving technologies 
-
 <div class='video-container'>
 <iframe src="https://www.youtube.com/embed/k4qmW9vgAio?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

@@ -14,7 +14,7 @@ layout: home
 <div class="header-container"> 
     <h1 class='av-title' class='typewriter'> Autonomous Vehicles Lab</h1> 
     <div class="devops-icon" > 
-      <a href="3-devops" >
+      <a href="2-devops" >
       <img src="assets/img/devops icon.gif"/>
       </a>
     </div> 
