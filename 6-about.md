@@ -9,10 +9,6 @@ AV-lab is part of <a href="https://www.ku.ac.ae/kucars">KU Center for Autonomous
 </p>
 
 <p class="justified-text">
-​AV-Lab is an integral part of the KU Center for Autonomous Robotic Systems (KUCARS), focusing on advancing autonomous and robotic technologies across four main themes: Autonomous Cars, Aerial Robotics, Marine Robotics, and Industrial Robotics. ​
-</p>
-
-<p class="justified-text">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMoTvLyh_yrqTJCfM6vkH0RTbbu2YDuFw5VTYXGfFaDKLmig/viewform"> <img width=100 class="icon" src="/assets/img/apply-icon.jpg"/> </a>
 If you are interested in working with us, please submit your application through our online <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMoTvLyh_yrqTJCfM6vkH0RTbbu2YDuFw5VTYXGfFaDKLmig/viewform">form</a>.
 For any collaboration or technical inquires, please contact Eng. Mohammed Riyadh:

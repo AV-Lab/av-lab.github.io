@@ -12,7 +12,7 @@ layout: home
 
 <div class="container">
 <div class="header-container"> 
-    <h1 class='av-title' class='typewriter'> Autonomous Vehicle Lab</h1> 
+    <h1 class='av-title' class='typewriter'> Autonomous Vehicles Lab</h1> 
     <div class="devops-icon" > 
       <a href="3-devops" >
       <img src="assets/img/devops icon.gif"/>
@@ -30,7 +30,7 @@ layout: home
 <div class="columns">
 <div class="left-column">
   <p class="sum">
-    At <a href="https://ku.ac.ae">Khalifa University's</a> Autonomous Vehicle Lab, our research focuses on advancing autonomous vehicle technology, prioritizing safety, seamless integration into smart urban environments, and ensuring AI systems are aligned with passenger needs.
+    At <a href="https://ku.ac.ae">Khalifa University's</a> Autonomous Vehicles Lab, our research focuses on advancing autonomous vehicle technology, prioritizing safety, seamless integration into smart urban environments, and ensuring AI systems are aligned with passenger needs.
   </p>
   <div class="questions">
   <p>Our key research areas include:</p>
