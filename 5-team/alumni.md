@@ -4,6 +4,12 @@ layout: page
 ---
 
 ## Staff
+**Mohammad Riyadh Alkharrat** (June 2023 - July 2025
+> Researche Assistant
+
+![riyadh](/assets/img/riyadh.png)
+Riyadh is a researcher in the autonomous vehicle lab at Khalifa University, specializing in robotics simulations and system integrations. He is dedicated to advancing the fields of autonomous vehicles and robotics. He is currently working on the development of an autonomous shuttle, focusing on components such as control, localization, planning, and perception to create a self-driving vehicle. His experience includes working on the implementation of autonomous navigation stacks on various UGVs, and the development of a virtual passengers' assistant in autonomous vehicles. Furthermore, Riyadh received his Bachelor of Computer Engineering degree from the University of Wollongong in Dubai.
+
 **Dr. Bilal Hassan**
 >Postdoctoral Fellow (May 2023 - May 2024)
 

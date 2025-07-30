@@ -8,7 +8,7 @@ show_menu: true
 
 **Dr. Majid Khonji**
 ![majid](assets/img/majid.png)
-Dr. Majid Khonji is an Assistant Professor in the Computer Science Department at Khalifa University (KU). He leads the research activities in the Autonomous Vehicle Laboratory at the KU Center for Autonomous Robotic Systems (KUCARS). Additionally, he is a research affiliate with the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) in the USA. Dr. Khonji earned his MSc degree in Security, Cryptology, and Coding of Information Systems from Ensimag, Grenoble Institute of Technology, France, and completed his Ph.D. in Interdisciplinary Engineering at Masdar Institute, in collaboration with MIT, in 2016.
+Dr. Majid Khonji is an Assistant Professor in the Computer Science Department at Khalifa University (KU). He leads the Autonomous Vehicle Laboratory at Khalifa University Center for Autonomous Robotic Systems (KUCARS).. Dr. Khonji earned his MSc degree in Security, Cryptology, and Coding of Information Systems from Ensimag, Grenoble Institute of Technology, France, and completed his Ph.D. in Interdisciplinary Engineering at Masdar Institute, in collaboration with MIT, in 2016.
 Prior to his current role, he was a visiting assistant professor at MIT's CSAIL, a senior R&D technologist at Dubai Electricity and Water Authority (DEWA), and an information security researcher at the Emirates Advanced Investment Group (EAIG).
 His research interests include Probabilistic Planning, Artificial Intelligence, Combinatorial Optimization, Autonomous Vehicles, and Electric Mobility.
 
@@ -25,7 +25,6 @@ Email: jorge.dias(at)ku.ac.ae
 ----
 
 # Research Staff
-
 **Dr. Sumbal Malik**
 > Postdoctoral Fellow
 
@@ -34,11 +33,12 @@ Dr. Sumbal Malik is currently a Postdoctoral Fellow at Khalifa University, where
 Throughout her PhD research, Sumbal authored over 20 articles in reputable journals and conferences, including publications in journals ranked in the top 1%, 5%, 10%, and 25%, demonstrating the high impact of her work.
 Before joining UAEU, Sumbal earned a Master of Science degree in Computer Science from the University of Gujrat, Pakistan, where she was awarded a Gold Medal for her outstanding performance. During her master's studies, she specialized in natural language processing and biomedical information retrieval for clinicians in healthcare settings, honing her expertise in these domains.
 
-**Mohammad Riyadh Alkharrat**
-> Researche Assistant
+**Dr. Shraddha Naik**
+> Postdoctoral Fellow
 
-![riyadh](assets/img/riyadh.png)
-Riyadh is a researcher in the autonomous vehicle lab at Khalifa University, specializing in robotics simulations and system integrations. He is dedicated to advancing the fields of autonomous vehicles and robotics. He is currently working on the development of an autonomous shuttle, focusing on components such as control, localization, planning, and perception to create a self-driving vehicle. His experience includes working on the implementation of autonomous navigation stacks on various UGVs, and the development of a virtual passengers' assistant in autonomous vehicles. Furthermore, Riyadh received his Bachelor of Computer Engineering degree from the University of Wollongong in Dubai.
+![shraddha](/assets/img/shraddha.jpeg)
+I am a dedicated researcher and educator with expertise in Artificial Intelligence and Machine Learning. My work focuses on advancing data-driven models, developing efficient computational frameworks, and applying novel algorithms across scientific, financial, healthcare, and blockchain (Ethereum platform) domains. With experience spanning top international institutions, I am passionate about translating theoretical innovations into impactful real-world solutions. As a mentor and instructor, I foster critical thinking, guide research projects, and inspire the next generation of engineers and scientists. Committed to bridging the gap between academia and industry, I strive to ensure that cutting-edge research drives technological progress and societal benefit.
+
 
 **Murad Mebrahtu**
 >Research Associate
@@ -64,13 +64,6 @@ I recently transitioned from my role as a Software Development Coordinator at By
   
 At Khalifa University, I am focused on developing and enhancing software applications for autonomous vehicles, creating intuitive user interfaces, and ensuring seamless integration with vehicle systems. I am dedicated to continuously improving my skills and staying updated with the latest trends and technologies.  
   
-
-# Visitors
-**Zakhar Yagudin**
-> Visiting Researcher
-
-![zakhar](assets/img/zakhar.jpeg)
-Zakhar Yagudin is a master's student in the Engineering Systems program at the Skolkovo Institute of Science and Technology (Skoltech), specializing in autonomous vehicle technologies and computer vision. He is affiliated with the Intelligent Space Robotics Laboratory within Skoltech's Center for Digital Engineering, where he collaborates on advancing autonomous driving systems.
 
 ---
 # Graduate Students
@@ -103,6 +96,23 @@ Email: mohamed.nagy(at)ku.ac.ae
 
 ![abdelmoamen](assets/img/abdelmoamen.jpg)
 Abdelmoamen Nasser received his BSc. in Electrical Engineering from Abu Dhabi University in 2018 with a focus in power systems and renewable energy, and received his MSc. in Electrical Engineering from United Arab Emirates University in 2022 focused on control and artificial intelligence. He is currently pursuing a Ph.D. in Engineering with a robotics concentration. Simultaneous to his studies, he developed interests in web development leading to participation in the first Food Security Hackathon. Additionally, he was in the winning team at the "Youth Hackathon on the Energy Sector in the UAE" organized by the French Institute. Prior to starting his Ph.D., he worked at the Lockheed Martin Center for Innovation and Security Solutions as an A.I. and robotics intern where he gained industry specific experience and eventually leading other intern teams in development and presentation of the CISS projects to VIP guests at multiple tradeshows.
+
+
+---
+# Visitors
+**Zakhar Yagudin**
+> Visiting Researcher
+
+![zakhar](assets/img/zakhar.jpeg)
+Zakhar Yagudin is a master's student in the Engineering Systems program at the Skolkovo Institute of Science and Technology (Skoltech), specializing in autonomous vehicle technologies and computer vision. He is affiliated with the Intelligent Space Robotics Laboratory within Skoltech's Center for Digital Engineering, where he collaborates on advancing autonomous driving systems.
+
+**Shaik Abdul Rahman**
+> Visiting Researcher
+
+![Shaik](assets/img/shaik.jpeg)
+Mechanical engineering student with a GPA of 3.86/4.00, experienced in both designing and manufacturing, including CAD, FEA, machining, welding, and technical tasks. Proficient in Creo, SolidWorks, Ansys, Abaqus and LabView. 
+Contributed to developing an Autonomous Off-Road Buggy with Khalifa University’s Autonomous Vehicles Lab and building an Electric Race Car for the Global Electric Vehicle Competition. 
+Hands-on internship experience at Al-Fahim: Mercedes-Benz Workshop. President of the Desi Club and Honors Club member, focused on advancing automotive and technology engineering.
 
 
 **Many thanks to [AV Lab Alumni](5-team/alumni)** for their great contributions.

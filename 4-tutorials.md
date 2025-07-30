@@ -4,14 +4,17 @@ title: Tutorials
 author: MK
 show_menu: true
 ---
+## Smart Scheduling | Summer Project 2025
+This summer project is designed for a group of undergraduate students: Osama Qadan, Mohammed Shmiul Islam, Omar Mehsen Omar Mohamed, and Abd Alrahman Basim Ismaik. The goal is to develop an automatic course scheduling system that provides recommendations and suggestions to students based on their preferences and completed courses. The system considers factors such as course prerequisites, student workload, and available time slots to generate optimal schedules. By simplifying the course selection process, the project aims to help students efficiently manage their time and fulfill degree requirements, ultimately enhancing their academic experience.
 
+
+## [Robotic System Integration | Summer Course 2022](https://avlab.io/robotic-sys-integration-course/)
 ![sys-summer-2022](assets/img/sys-summer-2022.jpg)
 <style>
     .ads:hover{
         opacity:0.8;
     }
 </style>
-## [Robotic System Integration | Summer Course 2022](https://avlab.io/robotic-sys-integration-course/)
 _Designed and delivered by Eyad Shakab, Arjun Sharma, and Dr. Majid Khonji_ 
 [July 13 - July 22]
 

@@ -17,7 +17,7 @@ This line of research primarily targets the optimization of planning systems in 
 <img src="/2-research/planning-img/banner.gif" >
 
 
-### Publications
+### Selected Publications
 - Abdulrahman Hamdy, Majid Khonji, Khaled Elbassioni, Jorge Dias, Ameena Al Sumaiti (2025). “**Online Risk-Bounded Graph-Based Local Planning for Autonomous Driving with Theoretical Guarantees**.” IEEE International Conference on Robotics and Automation (**ICRA**). Atlanta, US.
 - Majid Khonji (2023). "**Approximability and Efficient Algorithms for Constrained Fixed-Horizon POMDPs with Durative Actions**." The Journal of Artificial Intelligence (**AIJ**).
 - Majid Khonji (2023). “**A Fully Polynomial Time Approximation Scheme for Constrained MDPs under Local Transitions**.” IEEE Conference on Decision and Control (**CDC**), Singapore.
@@ -35,10 +35,11 @@ This line of research is dedicated to refining perception and situational awaren
 <img src="/2-research/3d-multi-object-tracking-img/tracking-gif.gif" height="200">
 <img src="/2-research/Offroad_AGV-Slip-Prediction-img/GIF_MUSTOFA_OP.gif" height="200">
 
-### Publications
-- Fatima Kashwani, Bilal Hassan, Peng-Yong Kong, Majid Khonji, Jorge Dias (2024). “Evaluation of Predictive Display for Teleoperated Driving using CARLA Simulator.” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). Abu Dhabi. UAE.
-- Bilal Hassan, Nadya Abdel Madjid, Fatima Kashwani, Mohamad Alansari, Majid Khonji, Jorge Dias (2024). “A Transformer-Based Framework for Vision-Centric  Autonomous Navigation in Off-Road Environments.” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). Abu Dhabi. UAE.
-- Bilal Hassan, Arjun Sharma, Nadya Abdel Madjid, Majid Khonji, Jorge Dias. "TerrainSense: Vision-Driven Mapless Navigation for Unstructured Off-Road Environments. ICRA 2024."  Yokohama. Japan.
+### Selected Publications
+- Nadya Abdel Madjid, Abdulrahman Ahmad, Murad Mebrahtu, Yousef Babaa, Abdelmoamen Nasser, Sumbal Malik, Bilal Hassan, Naoufel Werghi, Jorge Dias, Majid Khonji (2025). “**Trajectory Prediction for Autonomous Driving: Progress, Limitations, and Future Directions**.” Information Fusion (**IF**). [preprint](https://arxiv.org/abs/2503.03262)
+- Fatima Kashwani, Bilal Hassan, Peng-Yong Kong, Majid Khonji, Jorge Dias (2024). “**Evaluation of Predictive Display for Teleoperated Driving using CARLA Simulator**.” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). Abu Dhabi. UAE.
+- Bilal Hassan, Nadya Abdel Madjid, Fatima Kashwani, Mohamad Alansari, Majid Khonji, Jorge Dias (2024). “**A Transformer-Based Framework for Vision-Centric  Autonomous Navigation in Off-Road Environments**.” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). Abu Dhabi. UAE.
+- Bilal Hassan, Arjun Sharma, Nadya Abdel Madjid, Majid Khonji, Jorge Dias. "**TerrainSense: Vision-Driven Mapless Navigation for Unstructured Off-Road Environments**". ICRA. Yokohama. Japan.
 - [Mohamed Nagy, Majid Khonji, Jorge Dias and Sajid Javed (2023). "**DFR-FastMOT: Detection Failure Resistant Tracker for Fast Multi-Object Tracking Based on Sensor Fusion**." IEEE International Conference on Robotics and Automation (**ICRA**), London, UK.](/research/MOT) [paper](https://arxiv.org/pdf/2302.14807.pdf)
 - Hamad AlRemeithi, Fakhreddine Zayer, Jorge Dias, Majid Khonji (2023). “**Event Vision for Autonomous Off-Road Navigation**.” Artificial Intelligence for Robotics and Autonomous Systems Applications. Studies in Computational Intelligence, vol 1093. Springer, Cham. [paper](https://link.springer.com/chapter/10.1007/978-3-031-28715-2_8)
 - [Mustofa Basri, Areg Karapetyan, Bilal Hassan, Majid Khonji, Jorge Dias (2022). “**A Hybrid Deep Learning Approach for Vehicle Wheel Slip Prediction in Off-Road Environments**.” IEEE international symposium on Robotic and Sensors Environments (**ROSE**). Abu Dhabi, UAE.](/research/offroad/) [paper](https://ieeexplore.ieee.org/document/9977432)
@@ -49,7 +50,8 @@ This line of research is dedicated to refining perception and situational awaren
 This line of research focuses on the integration of autonomous vehicle systems into smart cities. It entails the development of strategies for mission planning, and efficient electric vehicle charging. The aim is to enhance the efficiency and sustainability of autonomous technologies within urban environments.
 
 <img src="/2-research/integration-img/delivery-robot.gif" height="200">
-### Publications
+
+### Selected Publications
 - Bushra Alshehhi, Areg Karapetyan, Khaled Elbassioni, Sid Chi-Kin Chau,  Majid Khonji (2023). “**DClEVerNet: Deep Combinatorial Learning for Efficient EV Charging Scheduling in Large-scale Networked Facilities**.” ACM International Conference on Future Energy Systems (**e-Energy**), Florida, US
 - Rashid Alyassi, Majid Khonji, Areg Karapetyan, Sid Chau, Khaled Elbassioni, Chien-Ming Tseng (2022). “**Autonomous Recharging and Flight Mission Planning for Battery-operated Autonomous Drones**.” IEEE Transactions on Automation Science and Engineering (**T-ASE**). [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9779119)
 - Areg Karapetyan, Khaled Elbassioni, Majid Khonji, Sid Chi-Kin Chau (2022).“**Approximations for Generalized Unsplittable Flow on Paths with Application to Power Systems Optimization**.” Annals of Operations Research (**AOR**). [paper](https://arxiv.org/pdf/1709.05876.pdf)
