@@ -18,7 +18,7 @@ Our development focuses on three core projects: AVLite, a high-level autonomy st
     <img src="/assets/img/orbit.png" alt="ORBit" width="100px" style="float: left; margin-right: 16px;">
     <div style="padding-top: 10px;">
       <strong>ORBit:</strong> Mid-level autonomy stack.<br>
-      ORBit focuses on real-time risk assessment and mitigation, ensuring safe and reliable operation by balancing autonomy with human oversight in challenging scenarios.
+    ORBit focuses on real-time risk assessment and high-level stack plan validation through independent evaluation and agentic verification, ensuring safe and reliable operation.
     </div>
   </div>
   
@@ -50,7 +50,7 @@ Vehicle route is shown in the figure below.
 
 # Other Research Platforms
 Our lab also develops and operates additional research platforms, including a retrofitted Nissan Leaf electric vehicle equipped for autonomous driving experiments and a digital twin of the SAN Campus for simulation and testing. These platforms support advanced research in perception, planning, and system integration for smart mobility solutions.
-[Check our platforms.](/2-research/other-platforms)
+[Check our platforms.](3-research/other-platforms.md)
 
 <style>
 .video-container {

@@ -5,7 +5,7 @@ exclude: true
 permalink: /research/offroad/
 ---
 
-![image](/1-research/Offroad_AGV-Slip-Prediction-img/GIF_MUSTOFA_OP.gif)
+![image](/3-research/Offroad_AGV-Slip-Prediction-img/GIF_MUSTOFA_OP.gif)
 
 
 The objective of this project is to develop a wheel slip prediction model for offroad navigation. This is a crucial task for offroad navigation, especially on unpaved surfaces such as sand or crater area, the vehicle slippage is considerable and can affect vehicle planning, trajectory planning, and navigation in general. While onroad autonomous navigation has attracted quite a lot of attention, the research on offroad navigation and slip prediction in the offroad environment has been in a nascent stage, thus the motivation is to provide an accurate wheel slip prediction model tailored for the offroad environment, especially for a car-like model.
