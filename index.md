@@ -44,7 +44,7 @@ layout: home
   
 </div>
   <div class="right-column">
-    <a href="1-research"><img src="/assets/banner-anim.gif"/></a>
+    <a href="3-research"><img src="/assets/banner-anim.gif"/></a>
   </div>
 </div>
 </div>
@@ -191,7 +191,7 @@ a{
   margin-right: auto;
   margin-bottom: 0px;
   display: block;
-  font-size: clamp(1.5rem, 2vw, 2rem); /* Font size scales between 1rem and 3rem based on viewport width */
+  font-size: clamp(1.5rem, 2vw, 1.9rem); /* Font size scales between 1rem and 3rem based on viewport width */
   font-family: "IBM Plex Mono", monospace;
   animation: 
     /*typing 3.5s steps(40, end),*/
@@ -209,9 +209,6 @@ a{
   from, to { border-color: transparent }
   50% { border-color: black; }
 }
-
-
-
 
 @media (max-width: 650px) {
   .columns {

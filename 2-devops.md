@@ -31,6 +31,9 @@ Our development focuses on three core projects: AVLite, a high-level autonomy st
   </div>
 </div>
 
+Please visit our [GitHub](https://github.com/AV-Lab).
+
+
 # ORBit: Mid-level Autonomy Stack 
 
 <div class='video-container'>

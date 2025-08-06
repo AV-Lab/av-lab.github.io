@@ -190,6 +190,7 @@
 }
 
 .post-list {
+  margin-top: -$spacing-unit / 3;  /* Instead of -10px */
   margin-left: 0;
   list-style: none;
 
@@ -199,7 +200,11 @@
   }
  
 }
+.rss-subscribe{
+  margin-top: -$spacing-unit;  /* Instead of -30px */
+  color: $grey-color;
 
+}
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
