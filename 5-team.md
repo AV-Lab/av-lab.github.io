@@ -114,6 +114,11 @@ Mechanical engineering student with a GPA of 3.86/4.00, experienced in both desi
 Contributed to developing an Autonomous Off-Road Buggy with Khalifa University’s Autonomous Vehicles Lab and building an Electric Race Car for the Global Electric Vehicle Competition. 
 Hands-on internship experience at Al-Fahim: Mercedes-Benz Workshop. President of the Desi Club and Honors Club member, focused on advancing automotive and technology engineering.
 
+**Abdulla Matar Alblooshi**
+> National Service Reserve Associate
+
+![](assets/img/nsr.jpg)
+Abdulla Matar Al Blooshi is a Computer Scientist with a background in Artificial Intelligence from the University of Birmingham (2021–2024). He gained practical experience as a Machine Learning Engineer intern at Ivy, contributing to open-source ML framework development. His academic and professional journey reflects strong skills in Python, GNU/Linux, software engineering practices, and framework design, with a growing focus on AI and applied machine learning in the UAE.
 
 **Many thanks to [AV Lab Alumni](5-team/alumni)** for their great contributions.
 
