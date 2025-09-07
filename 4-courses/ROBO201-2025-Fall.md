@@ -27,20 +27,20 @@ show_menu: false
 
 ## Lab Progress
 
-| Week        | Topic                                                                                   | Progress |
-| ----------- | --------------------------------------------------------------------------------------- | -------- |
-| **Week 1**  | No Lab                                                                                  |          |
-| **Week 2**  | Safety instructions and Lab Rules. Assembling TurtleBot3                                |          |
-| **Week 3**  | Intro to ROS 2, RViz & Gazebo using turtlebot3                                          |          |
-| **Week 4**  | Building and Moving the turtlebot - LAB A                                               |          |
-| **Week 5**  | Line & Waypoint Following - Lidar reading                                               |          |
-| **Week 6**  | Simultaneous Localisation and Mapping (SLAM) using TurtleBot3 Lidar                     |          |
-| **Week 7**  | Path planning in 2D occupancy grid using Djikstra algorithm                             |          |
-| **Week 8**  | No Lab                                                                                  |          |
-| **Week 9**  | Path planning in 2D occupancy grid using A* algorithm                                   |          |
-| **Week 10** | Path planning in 2D occupancy grid using RRT ( Rapidly exploring Random Tree) algorithm |          |
-| **Week 11** | Path planning in 2D occupancy grid using Potential Fields                               |          |
-| **Week 12** | project declaration                                                                     |          |
-| **Week 13** | Project implementation                                                                  |          |
-| **Week 14** | Final Project Demonstration                                                             |          |
-| **Week 15** | No Lab                                                                                  |          |
+| Week        | Topic                                                                                   | Progress                                                                                                                                                                      |
+| ----------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Week 1**  | No Lab                                                                                  |                                                                                                                                                                               |
+| **Week 2**  | Safety instructions and Lab Rules. Assembling TurtleBot3                                | [Lab 0](https://www.dropbox.com/scl/fi/n5jnloagd1wkemacfkhbn/Lab-0-ppt.pdf?rlkey=3exma84iij9msk813gpdm0odk&st=o97v3ioz&dl=0)                                                  |
+| **Week 3**  | Intro to ROS 2, RViz & Gazebo using turtlebot3                                          | [Lab 1](https://www.dropbox.com/scl/fi/ttm129p510qkykctkl8pz/Lab1-Getting-Started-with-TurtleBot3-in-ROS2-Gazebo-Teleop.pdf?rlkey=ymgi1tg32lrl3oukyc2hdbl20&st=kgku0lo4&dl=0) |
+| **Week 4**  | Building and Moving the turtlebot - LAB A                                               |                                                                                                                                                                               |
+| **Week 5**  | Line & Waypoint Following - Lidar reading                                               |                                                                                                                                                                               |
+| **Week 6**  | Simultaneous Localisation and Mapping (SLAM) using TurtleBot3 Lidar                     |                                                                                                                                                                               |
+| **Week 7**  | Path planning in 2D occupancy grid using Djikstra algorithm                             |                                                                                                                                                                               |
+| **Week 8**  | No Lab                                                                                  |                                                                                                                                                                               |
+| **Week 9**  | Path planning in 2D occupancy grid using A* algorithm                                   |                                                                                                                                                                               |
+| **Week 10** | Path planning in 2D occupancy grid using RRT ( Rapidly exploring Random Tree) algorithm |                                                                                                                                                                               |
+| **Week 11** | Path planning in 2D occupancy grid using Potential Fields                               |                                                                                                                                                                               |
+| **Week 12** | project declaration                                                                     |                                                                                                                                                                               |
+| **Week 13** | Project implementation                                                                  |                                                                                                                                                                               |
+| **Week 14** | Final Project Demonstration                                                             |                                                                                                                                                                               |
+| **Week 15** | No Lab                                                                                  |                                                                                                                                                                               |
