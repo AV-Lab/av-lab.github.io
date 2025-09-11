@@ -5,6 +5,9 @@ author: MK
 show_menu: false
 ---
 This course offers a comprehensive introduction to robotics software development. Students learn how to employ widely adopted programming tools in robotics, including the Robotics Operating System (ROS), enabling students to apply techniques related to the physical embodiment of robots.
+- Lecture TA: Abdalla Eslam (100066889@ku.ac.ae)
+- Lab TAs: Suma Rao, Abdelmoamen Ali, Mohamed Ali
+
 ## Lecture Progress
 
 | Week                                                                                                      | Topic                                                                                                                                                                                                                                                        | Slides                                                                                                                                                                                                                                  | Comments                                                                                                                     |

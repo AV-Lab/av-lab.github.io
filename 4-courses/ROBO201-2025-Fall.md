@@ -5,6 +5,8 @@ author: MK
 show_menu: false
 ---
 This course provides knowledge on path planning algorithms for autonomous robot navigation within the context of the Robotics Operating System (ROS). Students explore examples relevant to both mobile and manipulator robots. The course covers the representation of robot environment using configuration space, the construction of occupancy grid maps of obstacles, and the utilization of these maps for path planning.
+- Lecture TA:  Mohamad Halwani (mohamad.halwani@ku.ac.a[]()e)
+- Lab TAs: Suma Rao, Abdelmoamen Ali, Abdulrahman Hamdy
 
 ## Lecture Progress
 
