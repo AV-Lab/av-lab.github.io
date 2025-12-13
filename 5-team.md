@@ -120,6 +120,12 @@ Hands-on internship experience at Al-Fahim: Mercedes-Benz Workshop. President of
 ![](assets/img/nsr.jpg)
 Abdulla Matar Al Blooshi is a Computer Scientist with a background in Artificial Intelligence from the University of Birmingham (2021–2024). He gained practical experience as a Machine Learning Engineer intern at Ivy, contributing to open-source ML framework development. His academic and professional journey reflects strong skills in Python, GNU/Linux, software engineering practices, and framework design, with a growing focus on AI and applied machine learning in the UAE.
 
+Sergei Pasynkov
+> Visiting Researcher
+
+![](assets/img/Sergei-Pasynkov.jpeg)
+Sergei Pasynkov is a robotics engineer and researcher specializing in autonomous systems, with experience across the full robotics stack from embedded firmware to high-level autonomy. He has built autonomous mobile robots end-to-end, developing STM32 firmware for real-time sensing and actuation, and implementing ROS 2–based SLAM, global and local path planning, collision avoidance, and computer-vision pipelines for dynamic obstacle detection. Previously, he worked as a system programmer at Huawei on network switches and routing software, and as a researcher at Innopolis University focusing on FPGA-accelerated neural network computation. Sergei holds a BSc in Software Development from Innopolis University and is currently pursuing an MSc in Robotics at Skoltech, with multiple national-level competition awards and peer-reviewed research contributions.
+
 **Many thanks to [AV Lab Alumni](5-team/alumni)** for their great contributions.
 
 If you are interested in working with us, please submit your application through our online [form](1FAIpQLSeMoTvLyh_yrqTJCfM6vkH0RTbbu2YDuFw5VTYXGfFaDKLmig).
