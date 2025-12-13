@@ -97,8 +97,14 @@ Email: mohamed.nagy(at)ku.ac.ae
 ![abdelmoamen](assets/img/abdelmoamen.jpg)
 Abdelmoamen Nasser received his BSc. in Electrical Engineering from Abu Dhabi University in 2018 with a focus in power systems and renewable energy, and received his MSc. in Electrical Engineering from United Arab Emirates University in 2022 focused on control and artificial intelligence. He is currently pursuing a Ph.D. in Engineering with a robotics concentration. Simultaneous to his studies, he developed interests in web development leading to participation in the first Food Security Hackathon. Additionally, he was in the winning team at the "Youth Hackathon on the Energy Sector in the UAE" organized by the French Institute. Prior to starting his Ph.D., he worked at the Lockheed Martin Center for Innovation and Security Solutions as an A.I. and robotics intern where he gained industry specific experience and eventually leading other intern teams in development and presentation of the CISS projects to VIP guests at multiple tradeshows.
 
+**Shaocong Ma**
+>PhD Student; joined Fall 2025; funded under HARBOT project
+
+![Shaocong](assets/img/shaocong.png)
+Shaocong Ma is a PhD student in Robotics at Khalifa University and a member of the Autonomous Vehicles Lab (AVLab). He holds an MSc in Computer Technology from Nanjing University, where his research focused on multi-agent systems, UAV swarms, and large-language-model–based autonomous agents. His work centers on integrating LLM-driven reasoning with distributed robotic systems for autonomous task decomposition, dynamic swarm coordination, and real-time decision-making, with hands-on experience in UAV digital twins, reinforcement learning validation, and large-scale simulation environments.
 
 ---
+
 # Visitors
 **Zakhar Yagudin**
 > Visiting Researcher
