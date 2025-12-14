@@ -201,7 +201,8 @@
  
 }
 .rss-subscribe{
-  margin-top: -$spacing-unit;  /* Instead of -30px */
+  margin-top: -20px;
+  margin-bottom: -15px;
   color: $grey-color;
 
 }
@@ -239,26 +240,61 @@
   margin-bottom: $spacing-unit;
 
   h2 {
-    @include relative-font-size(2);
+    @include relative-font-size(1.5);
 
     @include media-query($on-laptop) {
-      @include relative-font-size(1.75);
+      @include relative-font-size(1.4);
     }
   }
 
   h3 {
-    @include relative-font-size(1.625);
+    @include relative-font-size(1.25);
 
     @include media-query($on-laptop) {
-      @include relative-font-size(1.375);
+      @include relative-font-size(1.17);
     }
   }
 
   h4 {
-    @include relative-font-size(1.25);
+    @include relative-font-size(1.125);
 
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);
+    }
+  }
+}
+
+/**
+ * News Container
+ */
+.news-container {
+  background-color: #fafafa;
+  // border: 2px solid #d5c4a1;
+  padding: 25px 20px;
+  margin-top: -27px;
+
+  .post-list {
+    margin-bottom: 10px;
+  }
+
+  .post-link {
+    color: #458588;
+
+    &:hover {
+      color: #076678;
+    }
+  }
+
+  .view-all-news {
+    text-align: right;
+    margin-bottom: 0;
+
+    a {
+      color: #5b5b5b;
+
+      &:hover {
+        color: #af3a03;
+      }
     }
   }
 }

@@ -6,26 +6,50 @@ show_menu: true
 
 # Faculty
 
-**Dr. Majid Khonji**
+## Dr. Majid Khonji
+
 ![majid](assets/img/majid.png)
+
 Dr. Majid Khonji is an Assistant Professor in the Computer Science Department at Khalifa University (KU). He leads the Autonomous Vehicle Laboratory at Khalifa University Center for Autonomous Robotic Systems (KUCARS).. Dr. Khonji earned his MSc degree in Security, Cryptology, and Coding of Information Systems from Ensimag, Grenoble Institute of Technology, France, and completed his Ph.D. in Interdisciplinary Engineering at Masdar Institute, in collaboration with MIT, in 2016.
 Prior to his current role, he was a visiting assistant professor at MIT's CSAIL, a senior R&D technologist at Dubai Electricity and Water Authority (DEWA), and an information security researcher at the Emirates Advanced Investment Group (EAIG).
 His research interests include Probabilistic Planning, Artificial Intelligence, Combinatorial Optimization, Autonomous Vehicles, and Electric Mobility.
+<br>
+<a href="https://scholar.google.com/citations?user=Z2AxaZYAAAAJ&hl=en">
+  <img class="badge"
+       src="https://img.shields.io/badge/Google_Scholar-4285F4?logo=google-scholar&logoColor=white"
+       alt="Google Scholar (Majid Khonji)">
+</a>
+<a href="https://www.linkedin.com/in/majid-khonji-34542851/">
+  <img class="badge"
+       src="https://img.shields.io/badge/Majid%20Khonji-LinkedIn-0077B5?logo=linkedin&logoColor=white"
+       alt="LinkedIn · Majid Khonji">
+</a>
+<a href="mailto:majid.khonji@ku.ac.ae">
+  <img class="badge"
+       src="https://img.shields.io/badge/Email-majid.khonji%40ku.ac.ae-555555"
+       alt="Email Majid Khonji">
+</a>
 
-Email: majid.khonji(at)ku.ac.ae
 
-**Prof. Jorge Dias**
+## Prof. Jorge Dias
 
 ![jorge](assets/img/jorge.jpg)
 Jorge Dias has a Ph.D. in EE and Coordinates the Artificial Perception Group from the Institute of Systems and Robotics from the University of Coimbra, Portugal. He is Full Professor at Khalifa University, Abu Dhabi, UAE and Deputy Director from the Center of Autonomous Robotic Systems from Khalifa University. His expertise is in the area of Artificial Perception (Computer Vision and Robotic Vision) and has contributions on the field since 1984. He has been principal investigator and consortia coordinator from several research international projects, and coordinates the research group on Computer Vision and Artificial Perception from KUCARS.
 Jorge Dias published several articles in the area of Computer Vision and Robotics that include more than 300 publications in international journals and conference proceedings and recently published book on Probabilistic Robot Perception that addresses the use of statistical modeling and Artificial Intelligence for Perception, Planning and Decision in Robots. He was the Project Coordinator of two European Consortium for the Projects "Social Robot" and "GrowMeUP" that were developed to support the inclusivity and wellbeing for of the Elderly generation.
+<a href="https://scholar.google.com/citations?user=liGzaswAAAAJ&hl=en">
+  <img class="badge"
+       src="https://img.shields.io/badge/Google_Scholar-4285F4?logo=google-scholar&logoColor=white"
+       alt="Google Scholar">
+</a>
+<a href="https://www.linkedin.com/in/jorgemirandadias/">
+  <img class="badge"
+       src="https://img.shields.io/badge/Jorge%20Miranda%20Dias-LinkedIn-0077B5?logo=linkedin&logoColor=white"
+       alt="LinkedIn · Jorge Miranda Dias">
+</a>
 
-Email: jorge.dias(at)ku.ac.ae
-
-----
-
+---
 # Research Staff
-**Dr. Sumbal Malik**
+## Dr. Sumbal Malik
 > Postdoctoral Fellow
 
 ![sumbal](assets/img/sumbal.png)
@@ -33,14 +57,14 @@ Dr. Sumbal Malik is currently a Postdoctoral Fellow at Khalifa University, where
 Throughout her PhD research, Sumbal authored over 20 articles in reputable journals and conferences, including publications in journals ranked in the top 1%, 5%, 10%, and 25%, demonstrating the high impact of her work.
 Before joining UAEU, Sumbal earned a Master of Science degree in Computer Science from the University of Gujrat, Pakistan, where she was awarded a Gold Medal for her outstanding performance. During her master's studies, she specialized in natural language processing and biomedical information retrieval for clinicians in healthcare settings, honing her expertise in these domains.
 
-**Dr. Shraddha Naik**
+## Dr. Shraddha Naik
 > Postdoctoral Fellow
 
 ![shraddha](/assets/img/shraddha.jpeg)
 I am a dedicated researcher and educator with expertise in Artificial Intelligence and Machine Learning. My work focuses on advancing data-driven models, developing efficient computational frameworks, and applying novel algorithms across scientific, financial, healthcare, and blockchain (Ethereum platform) domains. With experience spanning top international institutions, I am passionate about translating theoretical innovations into impactful real-world solutions. As a mentor and instructor, I foster critical thinking, guide research projects, and inspire the next generation of engineers and scientists. Committed to bridging the gap between academia and industry, I strive to ensure that cutting-edge research drives technological progress and societal benefit.
 
 
-**Murad Mebrahtu**
+## Murad Mebrahtu
 >Research Associate
 
 ![Murad_Official](assets/img/Murad_Official.jpg)
@@ -48,13 +72,13 @@ Murad Smreteab received his Bachelor of Science in Computer Engineering from Kha
 
 Email: Murad.Mebrahtu(at)ku.ac.ae
 
-**Yousef Babaa**
+## Yousef Babaa
 > Research Assistant
 
 ![Yousef_picture](assets/img/Yousef_picture.jpg)
 Yousef received his Bachelor of Science in Electrical Engineering - Mechatronics with merit Summa Cum Laude at the Canadian University of Dubai. As an Electrical & Robotics Engineer and Instructor at STEMA, he instructed students in engineering, programming, and robotics. Notably, he created a curriculum for a Unity 2D game design training program and supervised 30 interns. Yousef's research interests lie in autonomous and electric vehicles, and he contributed to a solar-powered electric autonomous vehicle during his graduation project. As a visiting researcher at the AV Lab, he plays a role in integrating components into the gen0 vehicle, and managing lab equipment & operations.
 
-**Syed Abbas Hussain**
+## Syed Abbas Hussain
 >Research Assistant
 
 ![](assets/img/syed-abbas-pic.png)
@@ -68,13 +92,13 @@ At Khalifa University, I am focused on developing and enhancing software applica
 ---
 # Graduate Students
 
-**Nadya Abdel Madjid** 
+## Nadya Abdel Madjid
 >PhD Student; joined Fall 2022; funded under KUCARS Theme 1
 
 ![nadya](assets/img/nadya.jpg)
 Nadya Abdel Madjid received the Bachelor’s Degree in applied mathematics and Computer Science from Lomonosov Moscow State University and the Masters degree through the research and teaching assistant scholarship from the Khalifa University of Science and Technology in 2020. Her Master's thesis research was conducted as a part of the group project aiming on creating an EIT-based flexible tactile sensor to equip robots with sensing capability and artificial skin. Nadya's part was to design an object recognition algorithm for the sensor. In 2021, Nadya joined as a Research Assistant in the division of Computer Science at New York University Abu Dhabi. There her research was focused on Question Answering over Knowledge Graphs. In 2022, Nadya joined Khalifa University as a PhD student and in January 2023, she joined the AV lab. Currently her research is related to multi-agent systems.  
 
-**Mohammed Nagy** 
+## Mohammed Nagy
 >PhD Student; joined Spring 2023; funded under KUCARS Theme 1
 
 ![nagy](assets/img/nagy.png)
@@ -83,7 +107,7 @@ His research interests include object tracking, autonomous systems perception, s
 
 Email: mohamed.nagy(at)ku.ac.ae
 
-**Abdulrahman Hamdy Ahmad** 
+## Abdulrahman Hamdy Ahmad
 >PhD Student; joined Spring 2023; funded under KUCARS Theme 1
 
 ![abdulrahman](assets/img/abdulrahman.png)
@@ -91,13 +115,13 @@ Email: mohamed.nagy(at)ku.ac.ae
 (Student Member, IEEE) received the B.Sc. degree (Hons.) in computer and systems engineering from Minia University, Minia, Egypt, in 2016,  M.Sc in Electrical and Computer Engineering from Khalifa University of Science  and Technology, Abu Dhabi, UAE, in 2023 and he is pursuing his Ph.D degree in Electrical Engineering and Computer Science besides joining the Autonomous Vehicles Lab from Khalifa University, Abu Dhabi, UAE.  He is on a leave from 2021 till now from the college of engineering, Minia University,  Egypt, as a faculty member.  His main research interests include motion planning of autonomous vehicles,  end-to-end autonomous driving, optimization, machine learning, and intelligent transportation systems.
 
 
-**Abdelmoamen Nasser** 
+## Abdelmoamen Nasser
 >PhD Student; joined Spring 2024; funded under KUCARS Theme 1
 
 ![abdelmoamen](assets/img/abdelmoamen.jpg)
 Abdelmoamen Nasser received his BSc. in Electrical Engineering from Abu Dhabi University in 2018 with a focus in power systems and renewable energy, and received his MSc. in Electrical Engineering from United Arab Emirates University in 2022 focused on control and artificial intelligence. He is currently pursuing a Ph.D. in Engineering with a robotics concentration. Simultaneous to his studies, he developed interests in web development leading to participation in the first Food Security Hackathon. Additionally, he was in the winning team at the "Youth Hackathon on the Energy Sector in the UAE" organized by the French Institute. Prior to starting his Ph.D., he worked at the Lockheed Martin Center for Innovation and Security Solutions as an A.I. and robotics intern where he gained industry specific experience and eventually leading other intern teams in development and presentation of the CISS projects to VIP guests at multiple tradeshows.
 
-**Shaocong Ma**
+## Shaocong Ma
 >PhD Student; joined Fall 2025; funded under HARBOT project
 
 ![Shaocong](assets/img/shaocong.png)
@@ -106,13 +130,13 @@ Shaocong Ma is a PhD student in Robotics at Khalifa University and a member of t
 ---
 
 # Visitors
-**Zakhar Yagudin**
+## Zakhar Yagudin
 > Visiting Researcher
 
 ![zakhar](assets/img/zakhar.jpeg)
 Zakhar Yagudin is a master's student in the Engineering Systems program at the Skolkovo Institute of Science and Technology (Skoltech), specializing in autonomous vehicle technologies and computer vision. He is affiliated with the Intelligent Space Robotics Laboratory within Skoltech's Center for Digital Engineering, where he collaborates on advancing autonomous driving systems.
 
-**Shaik Abdul Rahman**
+## Shaik Abdul Rahman
 > Visiting Researcher
 
 ![Shaik](assets/img/shaik.jpeg)
@@ -120,7 +144,7 @@ Mechanical engineering student with a GPA of 3.86/4.00, experienced in both desi
 Contributed to developing an Autonomous Off-Road Buggy with Khalifa University’s Autonomous Vehicles Lab and building an Electric Race Car for the Global Electric Vehicle Competition. 
 Hands-on internship experience at Al-Fahim: Mercedes-Benz Workshop. President of the Desi Club and Honors Club member, focused on advancing automotive and technology engineering.
 
-**Abdulla Matar Alblooshi**
+## Abdulla Matar Alblooshi
 > National Service Reserve Associate
 
 ![](assets/img/nsr.jpg)
@@ -138,21 +162,35 @@ If you are interested in working with us, please submit your application through
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMoTvLyh_yrqTJCfM6vkH0RTbbu2YDuFw5VTYXGfFaDKLmig/viewform"> <img width=100 class="icon" src="/assets/img/apply-icon.jpg"/> </a>
 
 <style>
-.icon{
+
+.icon {
     margin: 5px;
     width: 50px;
     float: left;
 }
-img{
-    float:left;
+
+img:not(.badge) {
+    float: left;
     margin-top: 6px;
     margin-right: 10px;
     width: 100px;
 }
-img:hover{
+
+img:not(.badge):hover {
     filter: blur(2px);
 }
-.vil:hover{
+
+.vil:hover {
     filter: hue-rotate(90deg);
 }
+
+a:has(.badge) {
+  text-decoration: none !important;
+}
+
+a:has(.badge):hover {
+  text-decoration: none !important;
+}
+
+
 </style>

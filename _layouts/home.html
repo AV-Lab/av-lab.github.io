@@ -11,13 +11,14 @@ list_title: News
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
+    <div class="news-container">
     <!-- <h2 class="post-list-heading">{{ page.list_title | default: "News" }}</h2> -->
     <ul class="post-list">
       {%- for post in site.posts limit:5 -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-          <a class="post-link" style="color:#7393B3" href="{{ post.url | relative_url }}">
+          <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         {%- if site.show_excerpts -%}
@@ -27,8 +28,9 @@ list_title: News
       {%- endfor -%}
     </ul>
 
-    <p class="view-all-news" style="text-align: right;"><a href="{{ "/news" | relative_url }}">view all news</a></p>
+    <p class="view-all-news"><a href="{{ "/news" | relative_url }}">view all news</a></p>
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    </div>
   {%- endif -%}
 
 </div>

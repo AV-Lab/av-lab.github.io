@@ -12,7 +12,9 @@ layout: home
 
 <div class="container">
 <div class="header-container"> 
-    <h1 class='av-title' class='typewriter'> Autonomous Vehicles Lab</h1> 
+    <h1 class='av-title typewriter'>
+      <span class="typewriter-text"></span>
+    </h1> 
     <div class="devops-icon" > 
       <a href="2-devops" >
       <img src="assets/img/devops icon.gif"/>
@@ -50,8 +52,19 @@ layout: home
 </div>
 
 
-
 <style>
+
+@font-face {
+  font-family: 'Titr';
+  src: url('/assets/fonts/titr-bold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Cairo';
+  src: url('/assets/fonts/static/Cairo-Regular.ttf') format('truetype');
+  font-weight: normal;
+}
 
 .container {
   display:flex;
@@ -136,6 +149,7 @@ layout: home
   padding-bottom: 10px;
 }
 .sum{
+    margin-top: 3px;
     margin-bottom: 0px;
     color:#838996;
     background-color:#f5f5f5;
@@ -158,7 +172,7 @@ layout: home
   /*color:#566968 ;*/
   color:#f9fbff;
   padding-top: 20px;
-  padding-bottom:35px;
+  padding-bottom:32px;
   padding-right:10px;
   padding-left:10px;
   padding-right: 25px;
@@ -185,23 +199,47 @@ a{
 }
 
 .typewriter{
-  overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .15em solid black; /* The typwriter cursor */
-  white-space: nowrap; /* Keeps the content on a single line */
-  margin-right: auto;
+  overflow: hidden;
+  white-space: nowrap;
   margin-bottom: 0px;
   display: block;
-  font-size: clamp(1.5rem, 2vw, 1.9rem); /* Font size scales between 1rem and 3rem based on viewport width */
-  font-family: "IBM Plex Mono", monospace;
-  animation: 
-    /*typing 3.5s steps(40, end),*/
-    blink-caret .75s step-end infinite;
+  font-size: clamp(1.5rem, 2vw, 1.9rem);
+  font-family: "IBM Plex Mono", "Cairo", "Titr", monospace;
+  min-height: 1.5em;
+  flex: 1;
 }
 
-/* The typing effect */
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
+.typewriter-text {
+  display: inline-block;
+  animation: blink-caret .75s step-end infinite;
+}
+
+/* RTL-specific cursor positioning */
+.typewriter.ltr {
+  direction: ltr;
+  text-align: left;
+}
+
+.typewriter.rtl {
+  direction: rtl;
+  text-align: right;
+  padding-right: 10px;
+}
+
+.typewriter-text.ltr {
+  border-right: .15em solid black;
+  border-left: none;
+  padding-right: 2px;
+  padding-left: 0;
+}
+
+.typewriter-text.rtl {
+  border-left: .15em solid black;
+  border-right: none;
+  padding-left: 2px;
+  padding-right: 0;
+  direction: rtl;
+  unicode-bidi: bidi-override;
 }
 
 /* The typewriter cursor effect */
@@ -243,3 +281,49 @@ a{
 
 
 </style>
+
+<script>
+const texts = [
+  { text: "Autonomous Vehicles Lab", dir: "ltr" },
+  { text: "مختبر المركبات ذاتية القيادة", dir: "rtl" }
+];
+
+const element = document.querySelector('.typewriter-text');
+const container = document.querySelector('.typewriter');
+let textIndex = 0;
+
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+async function typeText(text, dir) {
+  // Set direction classes on both container and text element
+  container.className = 'av-title typewriter ' + dir;
+  element.className = 'typewriter-text ' + dir;
+  
+  // Type in
+  for (let i = 0; i <= text.length; i++) {
+    element.textContent = text.substring(0, i);
+    await sleep(80);
+  }
+  
+  await sleep(2000); // Pause before erasing
+  
+  // Erase
+  for (let i = text.length; i >= 0; i--) {
+    element.textContent = text.substring(0, i);
+    await sleep(50);
+  }
+  
+  await sleep(500);
+}
+
+async function loop() {
+  while (true) {
+    await typeText(texts[textIndex].text, texts[textIndex].dir);
+    textIndex = (textIndex + 1) % texts.length;
+  }
+}
+
+loop();
+</script>
