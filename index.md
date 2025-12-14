@@ -32,21 +32,24 @@ layout: home
 <div class="columns">
 <div class="left-column">
   <p class="sum">
-    At <a href="https://ku.ac.ae">Khalifa University's</a> Autonomous Vehicles Lab, our research focuses on advancing autonomous vehicle technology, prioritizing safety, seamless integration into smart urban environments, and ensuring AI systems are aligned with passenger needs.
+<span class="avlab-badge">SAFETY-CRITICAL AUTONOMY</span>
+    At <a href="https://ku.ac.ae">Khalifa University</a>, we study safe autonomy under realistic uncertainty and deployment constraints, combining formal methods and real-world validation for safety-critical systems.
   </p>
   <div class="questions">
-  <p>Our key research areas include:</p>
+  <span class="section-label">Research Focus</span>
   <ul>
-    <li>Developing strategies to enhance the safety of key components in AV decision-making.</li>
-    <li>Enabling multi-agent vehicles to safely and efficiently share perception and decision-making data, including epistemic and aleatoric uncertainties, through V2X industry standards.</li>
-    <li>Designing decision-making frameworks that deliver strong safety assurances, grounded in rigorous theoretical validation.</li>
+    <li><strong>Decision-making safety:</strong> Formal analysis of autonomous decision pipelines, including failure modes, safety guarantees, and verification under uncertainty.</li>
+    <li><strong>Multi-agent coordination:</strong> Coordination and information sharing under uncertainty, including communication constraints and trust assumptions.</li>
+    <li><strong>Risk-bounded planning:</strong> Planning and control methods that explicitly encode risk, enabling safety guarantees rather than empirical tuning.</li>
   </ul>
 <!--.	 <a href="https://mindshield.ai"><img width="220" style="float: right; margin-top:-35px; margin-right:-18px" src="assets/img/mindshield-logo.gif"/></a> -->
   </div>
   
 </div>
   <div class="right-column">
+
     <a href="3-research"><img src="/assets/banner-anim.gif"/></a>
+
   </div>
 </div>
 </div>
@@ -151,11 +154,10 @@ layout: home
 .sum{
     margin-top: 3px;
     margin-bottom: 0px;
-    color:#838996;
-    background-color:#f5f5f5;
-    /*background-color: #101357;*/
-	padding-top: 20px;
-	padding-bottom: 20px;
+    color: #3d4043; /* Dark charcoal, not pure black */
+    background-color: #f7f8f9; /* Very light neutral gray */
+    padding-top: 20px;
+    padding-bottom: 20px;
     padding-left: 20px;
     padding-right: 25px;
 }
@@ -165,23 +167,45 @@ layout: home
 }
 
 .sum:hover{
-    background-color:#f8f8ff;
+    background-color: #f0f1f2;
 }
 .questions{
-  background-color:#a28089; /* #f9fbff ;*/
-  /*color:#566968 ;*/
-  color:#f9fbff;
-  padding-top: 20px;
-  padding-bottom:32px;
-  padding-right:10px;
-  padding-left:10px;
+  background-color: #f5f7f9; /* Light neutral background */
+  color: #3d4043; /* Dark charcoal text */
+  border-left: 3px solid #5c7d8a; /* Subtle muted teal accent line */
+  padding-top: 15px;
+  padding-bottom: 32px;
+  padding-left: 22px;
   padding-right: 25px;
-  margin:0px;
+  margin: 0px;
 }
 .questions:hover{
-  opacity: 80%;
-    background-color: #566968 ;
-    color:#f9fbff;
+  background-color: #eef1f4;
+  border-left-color: #4a6670;
+}
+
+.section-label {
+  display: block;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #5c7d8a; /* Same as accent line */
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+
+.questions ul {
+  line-height: 1.6;
+  margin-top: 5px;
+}
+
+.questions li {
+  margin-bottom: 8px;
+}
+
+.questions li strong {
+  color: #2d3436;
+  margin-right: 0.25em; /* Small gap after bold phrase */
 }
 
 
@@ -223,7 +247,7 @@ a{
 .typewriter.rtl {
   direction: rtl;
   text-align: right;
-  padding-right: 10px;
+  padding-right: 25px;
 }
 
 .typewriter-text.ltr {
@@ -241,6 +265,7 @@ a{
   direction: rtl;
   unicode-bidi: bidi-override;
 }
+
 
 /* The typewriter cursor effect */
 @keyframes blink-caret {
@@ -277,6 +302,19 @@ a{
   }
 }
 
+
+.avlab-badge {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 450;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #2B6CB0;
+  border: 1px solid rgba(43, 108, 176, 0.85); /* 85% opacity border */
+  padding: 4px 8px;
+  border-radius: 3px;
+  margin-right: 10px;
+}
 
 
 

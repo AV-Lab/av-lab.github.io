@@ -12,7 +12,7 @@ list_title: News
 
   {%- if site.posts.size > 0 -%}
     <div class="news-container">
-    <!-- <h2 class="post-list-heading">{{ page.list_title | default: "News" }}</h2> -->
+    <span class="news-label">Latest News</span>
     <ul class="post-list">
       {%- for post in site.posts limit:5 -%}
       <li>
