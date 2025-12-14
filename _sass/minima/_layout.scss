@@ -49,7 +49,7 @@
   @include media-query($on-palm) {
     position: absolute;
     top: 9px;
-    right: $spacing-unit / 2;
+    right: $spacing-unit * 0.5;
     background-color: $background-color;
     border: 1px solid $grey-color-light;
     border-radius: 5px;
@@ -90,12 +90,12 @@
 
     .page-link {
       display: block;
+      margin-left: 20px;
       padding: 5px 10px;
 
       &:not(:last-child) {
         margin-right: 0;
       }
-      margin-left: 20px;
     }
   }
 }
@@ -112,7 +112,7 @@
 
 .footer-heading {
   @include relative-font-size(1.125);
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: $spacing-unit * 0.5;
 }
 
 .contact-list,
@@ -124,14 +124,14 @@
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
   color: $grey-color;
-  margin-left: -$spacing-unit / 2;
+  margin-left: -$spacing-unit * 0.5;
   @extend %clearfix;
 }
 
 .footer-col {
   float: left;
-  margin-bottom: $spacing-unit / 2;
-  padding-left: $spacing-unit / 2;
+  margin-bottom: $spacing-unit * 0.5;
+  padding-left: $spacing-unit * 0.5;
 }
 
 .footer-col-1 {
@@ -186,35 +186,25 @@
 
 .post-list-heading {
   @include relative-font-size(1.75);
-  margin-bottom: 0;
 }
 
 .post-list {
-  margin-top: -$spacing-unit / 3;  /* Instead of -10px */
   margin-left: 0;
   list-style: none;
 
   > li {
-    margin-bottom: $spacing-unit*.65;
-    margin-bottom:5px;
+    margin-bottom: $spacing-unit;
   }
- 
 }
-.rss-subscribe{
-  margin-top: -20px;
-  margin-bottom: -15px;
-  color: $grey-color;
 
-}
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
 }
 
 .post-link {
-  //display: block;
-  @include relative-font-size(1);
-  color:black;
+  display: block;
+  @include relative-font-size(1.5);
 }
 
 
@@ -240,76 +230,26 @@
   margin-bottom: $spacing-unit;
 
   h2 {
-    @include relative-font-size(1.5);
+    @include relative-font-size(2);
 
     @include media-query($on-laptop) {
-      @include relative-font-size(1.4);
+      @include relative-font-size(1.75);
     }
   }
 
   h3 {
-    @include relative-font-size(1.25);
+    @include relative-font-size(1.625);
 
     @include media-query($on-laptop) {
-      @include relative-font-size(1.17);
+      @include relative-font-size(1.375);
     }
   }
 
   h4 {
-    @include relative-font-size(1.125);
+    @include relative-font-size(1.25);
 
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);
-    }
-  }
-}
-
-/**
- * News Container
- */
-.news-container {
-  background-color: #f9fafb; /* Subtle off-white */
-  border-top: 1px solid #e5e7eb; /* Very light gray divider */
-  padding: 25px 20px;
-  margin-top: -15px; /* Slight vertical spacing above */
-
-  .news-label {
-    display: block;
-    font-size: 0.7rem;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    color: #6b7280; /* Cool gray */
-    margin-bottom: 12px;
-    font-weight: 500;
-  }
-
-  .post-list {
-    margin-bottom: 10px;
-  }
-
-  .post-meta {
-    color: rgba(107, 114, 128, 0.65); /* Cool gray at 65% opacity */
-    font-size: 0.85em;
-  }
-
-  .post-link {
-    color: #4b6a7a; /* Muted blue */
-
-    &:hover {
-      color: #3a5463; /* Darker shade of same blue */
-    }
-  }
-
-  .view-all-news {
-    text-align: right;
-    margin-bottom: 0;
-
-    a {
-      color: #6b7280; /* Cool gray */
-
-      &:hover {
-        color: #4b6a7a; /* Muted blue on hover */
-      }
     }
   }
 }

@@ -1,0 +1,24 @@
+// ==========================================================================
+// Team & Profile Page Styles (shared components)
+// ==========================================================================
+
+// Badge links (no underline) - used across site
+a:has(.badge) {
+  text-decoration: none !important;
+  
+  &:hover {
+    text-decoration: none !important;
+  }
+}
+
+// Apply icon
+.icon {
+  margin: 5px;
+  width: 50px;
+  float: left;
+}
+
+// Villain hover effect
+.vil:hover {
+  filter: hue-rotate(90deg);
+}

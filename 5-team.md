@@ -4,6 +4,18 @@ layout: page
 show_menu: true
 ---
 
+<style>
+img:not(.badge) {
+    float: left;
+    margin-top: 6px;
+    margin-right: 10px;
+    width: 100px;
+}
+img:not(.badge):hover {
+    filter: blur(2px);
+}
+</style>
+
 # Faculty
 
 ## Dr. Majid Khonji
@@ -160,37 +172,3 @@ Sergei Pasynkov is a robotics engineer and researcher specializing in autonomous
 
 If you are interested in working with us, please submit your application through our online [form](1FAIpQLSeMoTvLyh_yrqTJCfM6vkH0RTbbu2YDuFw5VTYXGfFaDKLmig).
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMoTvLyh_yrqTJCfM6vkH0RTbbu2YDuFw5VTYXGfFaDKLmig/viewform"> <img width=100 class="icon" src="/assets/img/apply-icon.jpg"/> </a>
-
-<style>
-
-.icon {
-    margin: 5px;
-    width: 50px;
-    float: left;
-}
-
-img:not(.badge) {
-    float: left;
-    margin-top: 6px;
-    margin-right: 10px;
-    width: 100px;
-}
-
-img:not(.badge):hover {
-    filter: blur(2px);
-}
-
-.vil:hover {
-    filter: hue-rotate(90deg);
-}
-
-a:has(.badge) {
-  text-decoration: none !important;
-}
-
-a:has(.badge):hover {
-  text-decoration: none !important;
-}
-
-
-</style>

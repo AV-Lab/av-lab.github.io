@@ -1,0 +1,275 @@
+// ==========================================================================
+// Homepage Styles
+// ==========================================================================
+
+// Custom fonts
+@font-face {
+  font-family: 'Titr';
+  src: url('/assets/fonts/titr-bold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Cairo';
+  src: url('/assets/fonts/static/Cairo-Regular.ttf') format('truetype');
+  font-weight: normal;
+}
+
+// Main container
+.container {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  top: -28px;
+}
+
+// Header with typewriter and icons
+.header-container {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  margin-bottom: -2px;
+}
+
+// DevOps icon
+.devops-icon {
+  cursor: pointer;
+  
+  img {
+    width: 92px;
+  }
+  
+  &:hover {
+    animation: moveL 0.5s forwards;
+    transition: transform 1s ease-in-out;
+    opacity: 0.8;
+  }
+}
+
+// Knowledge base icon
+.knowledge-base-icon {
+  cursor: pointer;
+  border: solid 1.5px white;
+  
+  video {
+    width: 200px;
+    margin-bottom: -8px;
+  }
+  
+  &:hover {
+    animation: moveU 0.3s forwards;
+    opacity: 0.8;
+  }
+}
+
+// Animations
+@keyframes moveL {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-10px); }
+}
+
+@keyframes moveU {
+  0% { transform: translateZ(0px); }
+  100% { transform: scale(1.05); }
+}
+
+// Two-column layout
+.columns {
+  display: flex;
+}
+
+.left-column,
+.right-column {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  hyphens: auto;
+  text-align: justify;
+}
+
+.left-column {
+  flex: 60%;
+  margin-right: 1px;
+  
+  ul {
+    list-style-type: "‣ ";
+    margin-top: -10px;
+    margin-bottom: -10px;
+  }
+  
+  li {
+    padding-bottom: 10px;
+  }
+}
+
+.right-column {
+  flex: 40%;
+  min-width: 295.5px;
+  
+  img {
+    width: 100%;
+  }
+  
+  &:hover {
+    opacity: 0.8;
+    animation: moveU 0.3s forwards;
+  }
+}
+
+// Summary block
+.sum {
+  margin-top: 3px;
+  margin-bottom: 0px;
+  color: $avlab-text;
+  background-color: $avlab-bg-light;
+  padding: 20px;
+  padding-right: 25px;
+  
+  &:hover {
+    background-color: $avlab-bg-hover;
+  }
+}
+
+// Research focus / Questions block
+.questions {
+  background-color: $avlab-bg-alt;
+  color: $avlab-text;
+  border-left: 3px solid $avlab-accent;
+  padding: 15px 25px 32px 22px;
+  margin: 0px;
+  
+  &:hover {
+    background-color: $avlab-bg-alt-hover;
+    border-left-color: $avlab-accent-dark;
+  }
+  
+  ul {
+    line-height: 1.6;
+    margin-top: 5px;
+  }
+  
+  li {
+    margin-bottom: 8px;
+    
+    strong {
+      color: $avlab-text-dark;
+      margin-right: 0.25em;
+    }
+  }
+}
+
+// Section label (uppercase small text)
+.section-label {
+  display: block;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: $avlab-accent;
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+
+// Small banner (mobile)
+.small-banner {
+  display: none;
+  z-index: -1;
+  margin: 0;
+}
+
+// Typewriter effect
+.typewriter {
+  overflow: hidden;
+  white-space: nowrap;
+  margin-bottom: 0px;
+  display: block;
+  font-size: clamp(1.5rem, 2vw, 1.9rem);
+  font-family: "IBM Plex Mono", "Cairo", "Titr", monospace;
+  min-height: 1.5em;
+  flex: 1;
+}
+
+.typewriter-text {
+  display: inline-block;
+  animation: blink-caret 0.75s step-end infinite;
+}
+
+// RTL/LTR cursor positioning
+.typewriter.ltr {
+  direction: ltr;
+  text-align: left;
+}
+
+.typewriter.rtl {
+  direction: rtl;
+  text-align: right;
+  padding-right: 25px;
+}
+
+.typewriter-text.ltr {
+  border-right: 0.15em solid black;
+  border-left: none;
+  padding-right: 2px;
+  padding-left: 0;
+}
+
+.typewriter-text.rtl {
+  border-left: 0.15em solid black;
+  border-right: none;
+  padding-left: 2px;
+  padding-right: 0;
+  direction: rtl;
+  unicode-bidi: bidi-override;
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: black; }
+}
+
+// AVLab badge
+.avlab-badge {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 450;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: $avlab-badge;
+  border: 1px solid $avlab-badge-border;
+  padding: 4px 8px;
+  border-radius: 3px;
+  margin-right: 10px;
+}
+
+// Mobile responsive
+@media (max-width: 650px) {
+  .columns {
+    display: flex;
+  }
+
+  .right-column {
+    width: 100%;
+    display: none;
+  }
+
+  .small-banner {
+    display: block;
+    content: url("/assets/img/banner-small.png");
+    z-index: -1;
+  }
+  
+  .knowledge-base-icon {
+    display: none;
+  }
+  
+  .devops-icon {
+    display: none;
+  }
+  
+  .typewriter {
+    display: none;
+  }
+  
+  .container {
+    z-index: -1;
+  }
+}

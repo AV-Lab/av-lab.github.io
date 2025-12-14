@@ -4,6 +4,14 @@ title: ROBO 202 Software Development for Robotics (Fall 2025)
 author: MK
 show_menu: false
 ---
+
+<p class="license-notice">
+  <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">
+    <img alt="CC BY-NC 4.0" src="https://licensebuttons.net/l/by-nc/4.0/80x15.png" />
+  </a>
+  Course materials licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>
+</p>
+
 This course offers a comprehensive introduction to robotics software development. Students learn how to employ widely adopted programming tools in robotics, including the Robotics Operating System (ROS), enabling students to apply techniques related to the physical embodiment of robots.
 - Lecture TA: Abdalla Eslam (100066889@ku.ac.ae)
 - Lab TAs: Suma Rao, Abdelmoamen Ali, Mohamed Ali

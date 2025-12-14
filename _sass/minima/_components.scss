@@ -1,0 +1,128 @@
+// ==========================================================================
+// Components - Reusable across pages
+// ==========================================================================
+
+// Video container (responsive 16:9)
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; // 16:9 aspect ratio
+  height: 0;
+  overflow: hidden;
+  
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+// Justified text
+.justified-text {
+  text-align: justify;
+}
+
+// Centered images (for research pages)
+.centered-img img {
+  display: block;
+  margin: 0 auto;
+}
+
+// Floating image (right side)
+.img-right {
+  @media (max-width: 600px) {
+    float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  @media (min-width: 600px) {
+    float: right;
+    clear: right;
+    width: 300px;
+    margin-bottom: 10px;
+    margin-left: 15px;
+  }
+}
+
+// Logo sizing
+.logo {
+  @media (min-width: 600px) {
+    width: 150px;
+  }
+}
+
+// Labs container (About page)
+.labs-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-between;
+  
+  @media (max-width: 768px) {
+    flex-direction: column;
+  }
+}
+
+.lab-section {
+  flex: 1;
+  min-width: 300px;
+  display: flex;
+  flex-direction: column;
+  
+  @media (max-width: 768px) {
+    width: 100%;
+  }
+}
+
+.lab-title {
+  font-weight: bold;
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.map-container {
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+  height: 350px !important;
+  
+  @media (max-width: 768px) {
+    height: 300px !important;
+  }
+}
+
+.map-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+// Ads hover effect (courses page)
+.ads:hover {
+  opacity: 0.8;
+}
+
+// License notice
+.license-notice {
+  font-size: 0.85em;
+  color: $grey-color;
+  margin-bottom: $spacing-unit * 0.5;
+  
+  img {
+    vertical-align: middle;
+    margin-right: 5px;
+  }
+  
+  a {
+    color: $grey-color;
+    
+    &:hover {
+      color: $grey-color-dark;
+    }
+  }
+}

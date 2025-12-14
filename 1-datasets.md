@@ -3,6 +3,14 @@ title: Datasets
 layout: page
 show_menu: true
 ---
+
+<p class="license-notice">
+  <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+    <img alt="CC BY-NC-SA 4.0" src="https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png" />
+  </a>
+  All datasets licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+</p>
+
 # [Emirates Multi-Task (EMT) Dataset](https://avlab.io/emt-dataset/)
 Emirates Multi-Task (EMT) is a comprehensive dataset for autonomous driving research, containing 57 minutes of diverse urban traffic footage from the Gulf Region. The dataset provides rich semantic annotations across two agent categories: people (pedestrians and cyclists), vehicles (seven classes). Each video segment spans 2.5-3 minutes, capturing challenging real-world scenarios:
 - Dense Urban Traffic: Complex multi-agent interactions in congested scenarios
@@ -24,6 +32,3 @@ O2DTD is the first dataset on desert freespace detection, collected with six    
 The dataset includes around twenty minutes of unlabeled data (A set of 8 LiDARs, Monochrome Cameras, IMU, GPS) captured from an Autonomous Shuttle that is deployed and operated in Khalifa University, SAN Campus, UAE.
 
 ![](/assets/KUAS_Dataset_cropped.png)
-
-
-<img alt="Creative Commons License" style="border-width:0;float:left;margin-top:5px; margin-right:10px" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png">All datasets  are copyrighted under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0</a> License. 

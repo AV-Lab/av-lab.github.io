@@ -4,6 +4,14 @@ title: ROBO 201 Motion Planning Algorithms for Robotics (Fall 2025)
 author: MK
 show_menu: false
 ---
+
+<p class="license-notice">
+  <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">
+    <img alt="CC BY-NC 4.0" src="https://licensebuttons.net/l/by-nc/4.0/80x15.png" />
+  </a>
+  Course materials licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>
+</p>
+
 This course provides knowledge on path planning algorithms for autonomous robot navigation within the context of the Robotics Operating System (ROS). Students explore examples relevant to both mobile and manipulator robots. The course covers the representation of robot environment using configuration space, the construction of occupancy grid maps of obstacles, and the utilization of these maps for path planning.
 - Lecture TA:  Mohamad Halwani (mohamad.halwani@ku.ac.a[]()e)
 - Lab TAs: Suma Rao, Abdelmoamen Ali, Abdulrahman Hamdy

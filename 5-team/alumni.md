@@ -3,6 +3,17 @@ title: Alumni
 layout: page
 ---
 
+<style>
+img {
+    float: left;
+    margin: 5px;
+    width: 100px;
+}
+img:hover {
+    filter: blur(2px);
+}
+</style>
+
 ## Staff
 **Mohammad Riyadh Alkharrat** (June 2023 - July 2025
 > Researche Assistant
@@ -158,18 +169,3 @@ Bushra Alshehhi has a BSc in electrical engineering, graduated first in her clas
 
 **Duoaa Khalifa**
 >MSc CS: funded under MI-MIT 8474000068 (Summer 2019 - Fall 2020)
-
-
-<style>
-img{
-    float:left;
-    margin: 5px;
-    width: 100px;
-}
-img:hover{
-    filter: blur(2px);
-}
-.vil:hover{
-    filter: hue-rotate(90deg);
-}
-</style>

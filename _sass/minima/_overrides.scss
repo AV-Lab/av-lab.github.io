@@ -1,0 +1,83 @@
+// ==========================================================================
+// AVLab Theme Overrides
+// Only styles that DIFFER from Minima theme defaults
+// ==========================================================================
+
+// --------------------------------------------------------------------------
+// Headings - Custom sizes (theme uses $base-font-weight only)
+// --------------------------------------------------------------------------
+h1 {
+  @include relative-font-size(1.9);    // ~30px (theme: no size set)
+}
+
+h2 {
+  @include relative-font-size(1.5);    // 24px
+}
+
+h3 {
+  @include relative-font-size(1.25);   // 20px
+}
+
+// --------------------------------------------------------------------------
+// Horizontal Rules - Added margins (theme has none)
+// --------------------------------------------------------------------------
+hr {
+  margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit;
+  border: 0;
+  border-top: 1px solid $grey-color-light;
+}
+
+// --------------------------------------------------------------------------
+// Blockquotes - Simplified style for role subtitles
+// --------------------------------------------------------------------------
+blockquote {
+  border-left: none;
+  padding-left: 0;
+  @include relative-font-size(0.9);
+  letter-spacing: 0;
+  margin-top: -$spacing-unit * 0.5;
+}
+
+// --------------------------------------------------------------------------
+// Post list - Adjusted sizing
+// --------------------------------------------------------------------------
+.post-link {
+  @include relative-font-size(1);  // Theme uses 1.5
+  color: black;
+}
+
+.rss-subscribe {
+  margin-top: -20px;
+  margin-bottom: -15px;
+  color: $grey-color;
+}
+
+// --------------------------------------------------------------------------
+// Post content headings - Smaller than theme defaults
+// --------------------------------------------------------------------------
+.post-content {
+  h2 {
+    @include relative-font-size(1.5);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.4);
+    }
+  }
+
+  h3 {
+    @include relative-font-size(1.25);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.17);
+    }
+  }
+
+  h4 {
+    @include relative-font-size(1.125);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.125);
+    }
+  }
+}
