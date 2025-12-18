@@ -26,7 +26,7 @@ Email: mhdriadh.alkharrat@ku.ac.ae.
   </div>
   
   <div class="lab-section">
-    <div class="lab-title">SAN Campus Test Facility</div>
+    <div class="lab-title">SAN Campus Test Lab</div>
     <p>Wind Tunnel Building</p>
     <div class="map-container">
       <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d29062.311991762977!2d54.48664131685789!3d24.423396898780354!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e43e774701f6b%3A0xd6c04bcea62eb533!2zMjTCsDI1JzA4LjUiTiA1NMKwMzAnMDMuOCJF!5e0!3m2!1sen!2sae!4v1658386693355!5m2!1sen!2sae" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="map-iframe"></iframe>

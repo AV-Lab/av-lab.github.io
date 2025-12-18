@@ -188,6 +188,12 @@
   flex: 1;
 }
 
+// Bigger font for non-home pages
+.post-title.typewriter,
+.page-heading.typewriter{
+  font-size: clamp(2rem, 4vw, 2.5rem);
+}
+
 .typewriter-text {
   display: inline-block;
   animation: blink-caret 0.75s step-end infinite;

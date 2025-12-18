@@ -1,0 +1,30 @@
+<script>
+  (function() {
+    const text = {{ include.text | jsonify }};
+    if (!text) return;
+
+    const element = document.querySelector('.typewriter-text');
+    const container = document.querySelector('.typewriter');
+    
+    if (!element || !container) return;
+
+    function sleep(ms) {
+      return new Promise(resolve => setTimeout(resolve, ms));
+    }
+    
+    async function typeText(text) {
+      // Set direction classes (default to ltr for page titles)
+      container.classList.add('ltr');
+      element.classList.add('ltr');
+      
+      // Type in
+      for (let i = 0; i <= text.length; i++) {
+        element.textContent = text.substring(0, i);
+        await sleep(80);
+      }
+    }
+    
+    // Start typing
+    typeText(text);
+  })();
+</script>
