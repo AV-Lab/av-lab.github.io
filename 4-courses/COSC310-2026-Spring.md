@@ -1,0 +1,51 @@
+---
+layout: page
+title: COSC 310 Data Structures
+author: MK
+show_menu: false
+---
+## Spring 2026
+<p class="license-notice">
+  <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">
+    <img alt="CC BY-NC 4.0" src="https://licensebuttons.net/l/by-nc/4.0/80x15.png" />
+  </a>
+  Course materials licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>
+</p>
+The course reviews object-oriented design and discusses algorithm complexity, Big-O notation, and tractable and intractable algorithms. The course introduces concepts of abstract data types, basic data structures (i.e., lists, stacks, queues, and trees), and advanced data structures (i.e., graphs, sets, and heap). It also presents fundamental computing algorithms, including sorting, searching, and graph algorithms.
+
+## Lecture Progress
+
+| Week                                                                                                                                        | Plan                                                                                                                                                                                                                                                            | Notes |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| **Week 1**<br>**(12 - 16 Jan)**<br>_*12 Jan: Classes Begin. 16 Jan: End of Add/Drop_                                                        | [Lecture 1](https://www.dropbox.com/scl/fi/gswkcu1ggo71h7jyou4nq/Lecture-01-Introduction.pptx?rlkey=xc7pvmvkrsut5kr056s9q2up9&st=c36pv222&dl=0): Introduction. Course Organization.<br><br>Lecture 2: Arrays and LinkedLists. Analysis of Algorithms 1.<br><br> |       |
+| **Week 2** <br>**(19 – 23 Jan)**                                                                                                            | Algorithm Complexity Performance of Algorithms, Time and Space Tradeoff. Worst-case and Average-case performance.                                                                                                                                               |       |
+| **Week 3** <br>**(26 – 30 Jan)**                                                                                                            | The big- Oh Notation, Complexity Calculations examples.                                                                                                                                                                                                         |       |
+| **Week 4** <br>**(2 – 6 Feb)**                                                                                                              | NP Completeness and Approximation Algorithms.                                                                                                                                                                                                                   |       |
+| **Week 5** <br>**(9 – 13 Feb)**                                                                                                             | Fundamental Data Structures: Concept of Abstract Data Types (ADTs)<br><br>**(Quiz 1 – Wed 11 Feb).**                                                                                                                                                            |       |
+| **Week 6**<br>**(16 – 20 Feb)**                                                                                                             | ADT specification: Unsorted and Sorted Lists.                                                                                                                                                                                                                   |       |
+| **Week 7**<br>**(23 – 27 Feb)**                                                                                                             | Stacks.                                                                                                                                                                                                                                                         |       |
+| **Week 8** <br>**(2 – 6 Mar)**<br><br>*6 Mar - Mid Grade Due                                                                                | Queues **(Quiz 2 – Wed 4 Mar).**                                                                                                                                                                                                                                |       |
+| **Week 9** <br>**(9 – 13 Mar)**                                                                                                             | Sorting and Searching Algorithms: Sorting: Behavior of Sorting Algorithms, Selection Sort, Bubble Sort.<br><br>**Midterm Exam: Wed 11 Mar**<br><br>**Assignment/Project Issue – Wed 12 Mar**                                                                    |       |
+| **Week** <br>**(16 – 27 Mar)**                                                                                                              | **Mid Semester Break +Eid Alfitr (19-20 Mar)**                                                                                                                                                                                                                  |       |
+| **Week 10**<br>**(30 Mar – 3 Apr)**<br><br>*30 Mar- Last day to drop w/”W”                                                                  | Quick Sort, Hashing, Radix Sort.<br><br>Heap Sort, Merge Sort.                                                                                                                                                                                                  |       |
+| **Week 11** <br>**(6 – 10 Apr)**                                                                                                            | Insertion Sort.                                                                                                                                                                                                                                                 |       |
+| **Week 12** <br>**(13 – 17 Apr)**                                                                                                           | Binary Search Trees.<br><br>(**Quiz 3 – Wed 15 Apr).**                                                                                                                                                                                                          |       |
+| **Week 13** <br>**(20 – 24 Apr)**                                                                                                           | Advanced Data Structures: Priority Queues, Heaps<br><br>**Assignment/Project Deadline: Thu 24 Apr at 11:59 PM**                                                                                                                                                 |       |
+| **Week 14** <br>**(27 Apr – 1 May)**<br><br>*1 May - Last Day of Classes<br><br>*4-14 May – Final Exams<br><br>*19 May - Grades Publish Day | Graphs & Sets Algorithms.                                                                                                                                                                                                                                       |       |
+
+## Lab
+
+| Week        | Plan                                                                                                                      | Notes |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------- | ----- |
+| **Week 1**  | No Lab                                                                                                                    |       |
+| **Week 2**  | Dynamic Memory Allocation                                                                                                 |       |
+| **Week 3**  | Analysis of Algorithm Complexity (Part 1): Test different algorithms and measure the time complexity effects in practice. |       |
+| **Week 4**  | Analysis of Algorithm Complexity (Part 2): Link the Algorithm complexity concepts from theory to practice.                |       |
+| **Week 5**  | Manipulating Unsorted Lists<br><br>**Lab Quiz 1**                                                                         |       |
+| **Week 6**  | Manipulating Sorted Lists                                                                                                 |       |
+| **Week 7**  | Manipulating Stacks                                                                                                       |       |
+| **Week 8**  | Manipulating Queues<br><br>**Lab Quiz 2**                                                                                 |       |
+| **Week 9**  | Experiments with Sorting Algorithms Performance: Bubble & Selection Sort                                                  |       |
+| **Week 10** | Experiments with Sorting Algorithms Performance: Quick Sort & Heap Sort                                                   |       |
+| **Week 11** | Manipulating Binary Search Tree (BST)<br><br>**Lab Quiz 3**                                                               |       |
+| **Week 12** | Priority Queues                                                                                                           |       |

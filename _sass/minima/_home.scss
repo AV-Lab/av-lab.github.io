@@ -192,6 +192,8 @@
 .post-title.typewriter,
 .page-heading.typewriter{
   font-size: clamp(2rem, 4vw, 2.5rem);
+  white-space: normal;
+  overflow: visible;
 }
 
 .typewriter-text {

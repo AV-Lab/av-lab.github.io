@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ROBO 202 Software Development for Robotics (Fall 2025)
+title: ROBO 202 Software Development for Robotics
 author: MK
 show_menu: false
 ---
-
+## Fall 2025
 <p class="license-notice">
   <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">
     <img alt="CC BY-NC 4.0" src="https://licensebuttons.net/l/by-nc/4.0/80x15.png" />
