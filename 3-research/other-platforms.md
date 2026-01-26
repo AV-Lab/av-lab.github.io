@@ -8,8 +8,9 @@ show_menu: false
 
 Our customized Nissan Leaf platform is a retrofitted electric vehicle with perception sensors and KU drive-by-wire technology. The vehicle is used for data collection and testing autonomous driving in urban environments.
 <br> 
-
+<center>
 <img src="/assets/img/leaf1.png"  width=560/>
+</center>
 <br> 
 
 <div class='video-container'>

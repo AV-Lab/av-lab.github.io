@@ -46,14 +46,13 @@ The AV Lab has a fleet of autonomous vehicles, consisting of two passenger vehic
 
 <div class='video-container'>
 <iframe src="https://www.youtube.com/embed/k4qmW9vgAio?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-Vehicle route is shown in the figure below.
-<img src="/assets/img/san-route.jpg" /> 
 
+
+</div>
 
 # Other Research Platforms
 Our lab also develops and operates additional research platforms, including a retrofitted Nissan Leaf electric vehicle equipped for autonomous driving experiments and a digital twin of the SAN Campus for simulation and testing. These platforms support advanced research in perception, planning, and system integration for smart mobility solutions.
-[Check our platforms.](3-research/other-platforms.md)
+[Check our platforms.](3-research/other-platforms)
 
 <style>
 .video-container {
