@@ -51,3 +51,4 @@ The course reviews object-oriented design and discusses algorithm complexity, Bi
 | **Week 11** | Binary Search Tree (BST)<br><br>**(Quiz 3: Sorting Algorithms)**                                                            |       |
 | **Week 12** | Hash Maps & Sets                                                                                                            |       |
 | **Week 13** | Lab 11                                                                                                                      |       |
+
