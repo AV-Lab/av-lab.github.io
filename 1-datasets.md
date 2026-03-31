@@ -18,6 +18,19 @@ Emirates Multi-Task (EMT) is a comprehensive dataset for autonomous driving rese
 - Visual Challenges: High reflections from road surfaces and adverse weather combinations (rainy nights)
 
 More details can be found in the [download page](https://avlab.io/emt-dataset/emt_dataset) and [paper](https://arxiv.org/abs/2502.19260).
+
+# [Unified LiDAR Perception for High-Speed Autonomous Racing](https://avlab.io/EagleVision/)
+EagleVision is a LiDAR-based perception benchmark spanning real-world competition data from the Abu Dhabi Autonomous Racing League (A2RL) and the Indy Autonomous Challenge (IAC), together with high-fidelity simulator ground-truth. All domains are standardized into a common coordinate and annotation convention for consistent cross-domain evaluation.
+
+- 28,056 total labeled frames
+- 3 domains: IAC, A2RL Simulator, A2RL Real-World
+- Tasks: 3D object detection (single class: Car) and trajectory prediction
+- Class: Competition vehicle / autonomous racing vehicle
+- Unified PSR JSON schema: center (x,y,z), size (l,w,h), yaw
+- Ego-vehicle LiDAR frame with no motion compensation
+
+[Get the Dataset](https://avlab.io/EagleVision/) • [View Dataset Details](https://avlab.io/EagleVision/)
+
 <!-- # [Road-UAE Dataset](https://avlab.io/road-uae/)
 ROAD-UAE is a richly annotated dataset containing detailed semantic annotations for road agents and events. With 57 minutes of continuous footage, each video segment lasts between 2.5 to 3 minutes. The dataset includes heterogenous annotations for three main agent categories: people (pedestrians and cyclists), vehicles (divided into six classes), and traffic lights. It captures the unique road topology and traffic conditions of the Gulf Region, offering consistent tracking IDs for all road agents. Additionally, it provides action annotations as "action tubes" and road event detections labeled as triplets (Agent, Action, Location) at the frame level. -->
 
