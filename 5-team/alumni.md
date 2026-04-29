@@ -68,6 +68,33 @@ Eyad Shaklab recieved his B.S. degree in computer science from the American Univ
 
 ## Visitors
 
+## Zakhar Yagudin
+> Visiting Researcher (Jan 2025 - April 2025)
+> Visiting Researcher (August 2025 - Jan 2026)
+
+![zakhar](/assets/img/zakhar.jpeg)
+Zakhar Yagudin is a master's student in the Engineering Systems program at the Skolkovo Institute of Science and Technology (Skoltech), specializing in autonomous vehicle technologies and computer vision. He is affiliated with the Intelligent Space Robotics Laboratory within Skoltech's Center for Digital Engineering, where he collaborates on advancing autonomous driving systems.
+
+## Shaik Abdul Rahman
+> Visiting Researcher (May 2025 - Jan 2026)
+
+![Shaik](/assets/img/shaik.jpeg)
+Mechanical engineering student with a GPA of 3.86/4.00, experienced in both designing and manufacturing, including CAD, FEA, machining, welding, and technical tasks. Proficient in Creo, SolidWorks, Ansys, Abaqus and LabView. 
+Contributed to developing an Autonomous Off-Road Buggy with Khalifa University’s Autonomous Vehicles Lab and building an Electric Race Car for the Global Electric Vehicle Competition. 
+Hands-on internship experience at Al-Fahim: Mercedes-Benz Workshop. President of the Desi Club and Honors Club member, focused on advancing automotive and technology engineering.
+
+## Abdulla Matar Alblooshi
+> National Service Reserve Associate (Jul6 2025 - March 2026)
+
+![](/assets/img/nsr.jpg)
+Abdulla Matar Al Blooshi is a Computer Scientist with a background in Artificial Intelligence from the University of Birmingham (2021–2024). He gained practical experience as a Machine Learning Engineer intern at Ivy, contributing to open-source ML framework development. His academic and professional journey reflects strong skills in Python, GNU/Linux, software engineering practices, and framework design, with a growing focus on AI and applied machine learning in the UAE.
+
+Sergei Pasynkov
+> Visiting Researcher
+
+![](/assets/img/Sergei-Pasynkov.jpeg)
+Sergei Pasynkov is a robotics engineer and researcher specializing in autonomous systems, with experience across the full robotics stack from embedded firmware to high-level autonomy. He has built autonomous mobile robots end-to-end, developing STM32 firmware for real-time sensing and actuation, and implementing ROS 2–based SLAM, global and local path planning, collision avoidance, and computer-vision pipelines for dynamic obstacle detection. Previously, he worked as a system programmer at Huawei on network switches and routing software, and as a researcher at Innopolis University focusing on FPGA-accelerated neural network computation. Sergei holds a BSc in Software Development from Innopolis University and is currently pursuing an MSc in Robotics at Skoltech, with multiple national-level competition awards and peer-reviewed research contributions.
+
 **Syed Abbas Hussain** 
 >Visiting Researcher (31/7/2024 - 30/11/2024)
 
