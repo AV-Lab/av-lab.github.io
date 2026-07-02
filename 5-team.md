@@ -22,7 +22,7 @@ img:not(.badge):hover {
 
 ![majid](assets/img/majid.png)
 
-Dr. Majid Khonji is an Assistant Professor in the Computer Science Department at Khalifa University (KU). He leads the Autonomous Vehicle Laboratory at Khalifa University Center for Autonomous Robotic Systems (KUCARS).. Dr. Khonji earned his MSc degree in Security, Cryptology, and Coding of Information Systems from Ensimag, Grenoble Institute of Technology, France, and completed his Ph.D. in Interdisciplinary Engineering at Masdar Institute, in collaboration with MIT, in 2016.
+Dr. Majid Khonji is an Associate Professor in the Computer Science Department at Khalifa University (KU). He leads the Autonomous Vehicle Laboratory at Khalifa University Center for Autonomous Robotic Systems (KUCARS). Dr. Khonji earned his MSc degree in Security, Cryptology, and Coding of Information Systems from Ensimag, Grenoble Institute of Technology, France, and completed his Ph.D. in Interdisciplinary Engineering at Masdar Institute, in collaboration with MIT, in 2016.
 Prior to his current role, he was a visiting assistant professor at MIT's CSAIL, a senior R&D technologist at Dubai Electricity and Water Authority (DEWA), and an information security researcher at the Emirates Advanced Investment Group (EAIG).
 His research interests include Probabilistic Planning, Artificial Intelligence, Combinatorial Optimization, Autonomous Vehicles, and Electric Mobility.
 <br>
