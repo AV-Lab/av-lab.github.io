@@ -8,10 +8,10 @@ Our development focuses on three core projects: AVLite, a high-level autonomy st
 
 <div style="text-align: left; width: 100%;">
   <div style="text-align: left; clear: both; margin-bottom: 20px;">
-    <a href="https://github.com/AV-Lab/avlite"><img src="/assets/img/avlite.png" alt="AVlite" width="100px" style="float: left; margin-right: 16px;"></a>
+    <a href=""><img src="/assets/img/avlite.png" alt="AVlite" width="100px" style="float: left; margin-right: 16px;"></a>
     <div style="padding-top: 10px;">
-      <strong><a href="https://github.com/AV-Lab/avlite">AVLite:</a></strong> High-level autonomy stack.<br>
-      AVLite provides advanced decision-making, perception, and planning capabilities for autonomous vehicles, enabling robust navigation and complex task execution. Check <a href="https://avlab.io/avlite/"> AVLite Documentation</a>. 
+      <strong><a href="https://avlab.io/avlite/">AVLite:</a></strong> High-level autonomy stack.<br>
+      AVLite provides advanced decision-making, perception, and planning capabilities for autonomous vehicles, enabling robust navigation and complex task execution. Visit <a href="https://avlab.io/avlite/"> AVLite website</a>.
     </div>
   </div>
   <div style="text-align: left; clear: both; margin-bottom: 20px;">
