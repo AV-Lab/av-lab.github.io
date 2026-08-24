@@ -4,7 +4,7 @@ title: COSC 310 Data Structures
 author: MK
 show_menu: false
 ---
-## Spring 2026
+## Fall 2026
 <p class="license-notice">
   <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">
     <img alt="CC BY-NC 4.0" src="https://licensebuttons.net/l/by-nc/4.0/80x15.png" />
