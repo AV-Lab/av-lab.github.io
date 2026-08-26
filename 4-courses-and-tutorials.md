@@ -17,8 +17,8 @@ show_menu: true
 The course reviews object-oriented design and discusses algorithm complexity, Big-O notation, and tractable and intractable algorithms. The course introduces concepts of abstract data types, basic data structures (i.e., lists, stacks, queues, and trees), and advanced data structures (i.e., graphs, sets, and heap). It also presents fundamental computing algorithms, including sorting, searching, and graph algorithms. 
 
 
-- Latest version: [Fall 2026](4-courses/COSC310-2026-Fall) material.
-- Old versions: [Spring 2026](4-courses/COSC310-2026-Spring).
+- Latest version: [Fall 2026](4-courses/COSC310-2026-Fall).
+- Previus version: [Spring 2026](4-courses/COSC310-2026-Spring).
 
 ## [ROBO 201 Motion Planning Algorithms for Robotics](4-courses/ROBO201-2025-Fall)
 This course provides knowledge on path planning algorithms for autonomous robot navigation within the context of the Robotics Operating System (ROS). Students explore examples relevant to both mobile and manipulator robots. The course covers the representation of robot environment using configuration space, the construction of occupancy grid maps of obstacles, and the utilization of these maps for path planning. See [Fall 2025](4-courses/ROBO201-2025-Fall) material.
